@@ -1,25 +1,83 @@
 = Completed
 
+== Phases of Corrections to the Funke Document
+
+The goal is to first have a completely accurate transliteration, thereafter
+to modernize the spelling, and finally produce an accurate idiomatic modern
+German version whose meaning is the same as the original.
+
+The fourth phase is to use Deepl.com to translated it.
+
+=== Phase 1 — Textual Accuracy
+
+* Proofread each image against your transliteration
+
+* Correct paleographic errors
+
+* Resolve ambiguous readings
+
+* Keep page breaks intact
+
+* Do not rewrite structure
+
+* Result: a reliable base text.
+
+=== Phase 2 — Orthographic Modernization
+
+Then we:
+
+* Modernize spelling consistently
+
+* Normalize punctuation (if desired)
+
+* Preserve syntax
+
+* Avoid interpretive reconstruction
+
+* Result: a modernized but structurally faithful text.
+
+=== Phase 3 — Idiomatic Modern German
+
+Only after we have the complete, verified text (including page-spanning sentences), we:
+
+* Rewrite paragraph by paragraph
+
+* Modernize syntax and phrasing
+
+* Keep all content
+
+* Avoid guessing at broken sentences
+
+* Possibly work sentence-by-sentence to maintain control
+
 These transliteration files have been checked by ChatGPT and myself for
 accuracy, and corrections have been made. The final version has been
 committed and ChatGPT has asssured it is 100% accurate. 
 
 |===
-|Txt
+|Txt |Phases Completed
 
 |1104.txt
+|1
 
 |1105.txt
+|1
 
 |1106.txt
+|1
 
 |1107.txt
+|1
 
 |1108.txt
+|1
 
 |1109.txt
+|1
 
 |1110.txt
+|1
 
-|111q.txt
+|1111.txt
+|1-2
 |===
