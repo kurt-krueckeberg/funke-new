@@ -1,8 +1,8 @@
 = Completed
 
 |===
-|Image|Txt
+|Txt
 
-|1104.jpg
-|page-1104.txt
+|1104.txt
+|1105.txt
 |===
