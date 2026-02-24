@@ -10,31 +10,29 @@ The fourth phase is to use Deepl.com to translated it.
 
 === Phase 1 — Textual Accuracy
 
-* Proofread each image against your transliteration
+Proofread each image against your transliteration
 
 * Correct paleographic errors
 
 * Resolve ambiguous readings
 
-* Keep page breaks intact
-
 * Do not rewrite structure
 
-* Result: a reliable base text.
+Result: a reliable base text.
 
 === Phase 2 — Orthographic Modernization
 
 Then we:
 
-* Modernize spelling consistently
+* Modernize spelling and number formatting consistently
 
-* Normalize punctuation (if desired)
+* Normalize punctuation
 
 * Preserve syntax
 
 * Avoid interpretive reconstruction
 
-* Result: a modernized but structurally faithful text.
+Result: a modernized but structurally faithful text.
 
 === Phase 3 — Idiomatic Modern German
 
