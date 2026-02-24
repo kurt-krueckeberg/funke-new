@@ -90,3 +90,5 @@ booksellers Hahn in Hanover and Rackhorst in Osnabrück.
 
 The present article has been prepared on the basis of private
 communications received.
+
+<-- RESUME with p1106.txt. Have Chagpt do the translation. See: https://chatgpt.com/share/699e06cc-46f0-8004-8da3-7c1b8bcd1109
