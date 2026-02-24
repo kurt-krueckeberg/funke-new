@@ -1,6 +1,15 @@
 = TODO
 
-Phasese I and II have been done. Phase III only remains.
+== Phase III
+
+Phasese I and II have been done. Phase III is in
+modernized-article-german.txt. These pages have been done:
+
+|===
+|Page range completed
+
+|1104-1105
+|===
 
 == Phases of Corrections to the Funke Document
 
@@ -37,85 +46,13 @@ Then we:
 Result: a modernized but structurally faithful text.
 
 === Phase 3 — Idiomatic Modern German
+Please that the first part of a multi-part transliteration of an 1848 German Fraktur article entitled " Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe" and  rewrite it paragraph by paragraph in modern idiomtic German.   Do not paraphrase. Do not summarize or abridge. The goal is solely to modernize, so that a readable translation in English can be made. To achieve this aim, you should do this:
 
+1. Modernize syntax and phrasing
+2.  Keep all content
+3.  Avoid guessing at broken sentences
+4.  Possibly work sentence-by-sentence to maintain control
+
+Display the entire result, the entire modernize, idiomatic German version.
 Only after we have the complete, verified text (including page-spanning sentences), we:
 
-* Rewrite paragraph by paragraph
-
-* Modernize syntax and phrasing
-
-* Keep all content
-
-* Avoid guessing at broken sentences
-
-* Possibly work sentence-by-sentence to maintain control
-
-These transliteration files have been checked by ChatGPT and myself for
-accuracy, and corrections have been made. The final version has been
-committed and ChatGPT has asssured it is 100% accurate. 
-
-
-TODO: R
-
-* recheck 01-11 for all the details in included in Phase II.
-
-|===
-|Txt |Phases Completed
-
-|1104.txt
-|1-2
-
-|1105.txt
-|1-2
-
-|1106.txt
-|1-2
-
-|1107.txt
-|1-2
-
-|1108.txt
-|1-2
-
-|1109.txt
-|1-2
-
-|1110.txt
-|1-2
-
-|1111.txt
-|1-2
-
-|1112.txt
-|1-2
-
-|1113.txt
-|1-2
-
-|1114.txt
-|1-2
-
-|1115.txt
-|1-2
-
-|1116.txt
-|1-2
-
-|1117.txt
-|1-2
-
-|1118.txt
-|1-2
-
-|1119.txt
-|1-2
-
-|1120.txt
-|1-2
-
-|1121.txt
-|1-2
-
-|1122.txt
-|1-2
-|===
