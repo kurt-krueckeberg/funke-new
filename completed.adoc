@@ -1,4 +1,6 @@
-= Completed
+= TODO
+
+Phasese I and II have been done. Phase III only remains.
 
 == Phases of Corrections to the Funke Document
 
