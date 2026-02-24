@@ -12,7 +12,7 @@ The fourth phase is to use Deepl.com to translated it.
 
 === Phase 1 — Textual Accuracy
 
-Proofread each image against your transliteration
+Proofread each image against your transliteration and:
 
 * Correct paleographic errors
 
