@@ -2,8 +2,7 @@
 
 == Phase III
 
-Phasese I and II have been done. Phase III is in
-modernized-article-german.txt. These pages have been done:
+Phases I and II have been done.  HAve chatgpt do phase III. See: https://chatgpt.com/share/699e06cc-46f0-8004-8da3-7c1b8bcd1109
 
 |===
 |Page range completed
