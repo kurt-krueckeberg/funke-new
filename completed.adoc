@@ -1,8 +1,5 @@
 = TODO
 
-p1107.txt is wrong. It is incomplete, missing all the text at the top of the
-page!
-
 == Phase III
 
 Phases I and II have been done.  HAve chatgpt do phase III. See: https://chatgpt.com/share/699e06cc-46f0-8004-8da3-7c1b8bcd1109
@@ -10,7 +7,7 @@ Phases I and II have been done.  HAve chatgpt do phase III. See: https://chatgpt
 |===
 |Page range completed
 
-|1104-1105
+|1104-1107 (including the half sentence that begins at the top of p1108.txt)
 |===
 
 == Phases of Corrections to the Funke Document
@@ -48,13 +45,19 @@ Then we:
 Result: a modernized but structurally faithful text.
 
 === Phase 3 — Idiomatic Modern German
-Please that the first part of a multi-part transliteration of an 1848 German Fraktur article entitled " Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe" and  rewrite it paragraph by paragraph in modern idiomtic German.   Do not paraphrase. Do not summarize or abridge. The goal is solely to modernize, so that a readable translation in English can be made. To achieve this aim, you should do this:
+
+This is another part of a multi-part transliteration of an 1848
+German Fraktur article entitled " Über die Verhältnisse der Einlieger in
+den Fürstentümern Lippe-Detmold und Schaumburg-Lippe". Please translate it
+paragraph by paragraph into English. Do not paraphrase. Do
+not summarize or abridge. The goal is a easier to read text than the German
+text, so that it is more understandable. To achieve this aim, you
+should do this:
 
 1. Modernize syntax and phrasing
-2.  Keep all content
-3.  Avoid guessing at broken sentences
-4.  Possibly work sentence-by-sentence to maintain control
+2. Keep all content
+3. Avoid guessing at broken sentences
+4. Possibly work sentence-by-sentence to maintain control
 
-Display the entire result, the entire modernize, idiomatic German version.
-Only after we have the complete, verified text (including page-spanning sentences), we:
+Display the entire result, the entire modernize translation.
 
