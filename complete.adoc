@@ -54,6 +54,11 @@ These transliteration files have been checked by ChatGPT and myself for
 accuracy, and corrections have been made. The final version has been
 committed and ChatGPT has asssured it is 100% accurate. 
 
+
+TODO: R
+
+* recheck 01-11 for all the details in included in Phase II.
+
 |===
 |Txt |Phases Completed
 
