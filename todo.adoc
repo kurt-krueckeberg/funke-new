@@ -2,16 +2,15 @@
 
 == Phase III
 
+Reintroduce page numbers.
+
 Phases I and II are done. Doing pahse 3. See: https://chatgpt.com/share/699e06cc-46f0-8004-8da3-7c1b8bcd1109
 
 |===
 |Page range completed
 
-|1104-1107 (including the half sentence that begins at the top of p1108.txt)
+|1104-1109 
 |===
-
--->TODO: See note at the top of to-eng.txt. This file contains p1108.txt
-appened with p1109.txt. But see the notes at the top of to-eng.txt
 
 == Phases of Corrections to the Funke Document
 

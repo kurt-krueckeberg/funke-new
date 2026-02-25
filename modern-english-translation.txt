@@ -70,7 +70,8 @@ common lands, with few exceptions, virtually no land beyond a small garden
 plot. This plot was probably assigned to them at the time they received
 permission to establish their holdings.
 
-Footnote start:
+-----
+[Footnote]
 
 In the preface to my work On the Present Condition of the Heuerleute in the
 Principality of Osnabrück, with Particular Reference to the Causes of Their
@@ -89,7 +90,9 @@ booksellers Hahn in Hanover and Rackhorst in Osnabrück.
 
 The present article has been prepared on the basis of private
 communications received.
-<--Footnote end
+
+[footnote ended]
+----
 
 At first they supported themselves by working as day laborers on the farms,
 and they also placed their children there as servants. As their numbers
@@ -217,8 +220,128 @@ pressed into that market. With the continually expanding cotton production
 in America, matters have also reached the point that even in the West
 Indies cotton fabrics have in part displaced linen ones.
 
-<-- RESUME with p1108.txt. NOTE: For the translation of the paragraphs (or
-part of a paragraph immediately above, I copied the first part of the text
-of the sentence at the top of p1108.txt, which continued the sentence at
-the end of p1107.txt, and used it in the translation above
-because, as I said, it continued the sentence from p1107.txt,
+This, however, can only occur to a certain extent, since for tropical
+countries there is no clothing more suitable than linen, which is both
+highly durable and cooling. It is therefore to be expected that, despite
+the machines, a more favorable period will return for the domestic linen
+industry once the political conditions of tropical America have become more
+stable and provided that we do not neglect to establish favorable direct
+trade connections with it. On the one hand, hand-spun linen, because of its
+greater strength and durability and its other advantages, will maintain
+itself alongside machine-made linen; on the other hand, the industry of the
+propertyless population will turn toward the more careful preparation of
+flax for machine processing.
+
+In Lippe, according to the statement of a farmer (Kolon), about twenty to
+thirty years ago twelve skeins of so-called purchase yarn were delivered
+for one thaler; at present fifteen to eighteen skeins are given for one
+thaler. It has been asserted that the difference in earnings cannot be
+quite so great, since nowadays spinning is done consistently with both
+hands, which was formerly not the case. It must, however, be noted that
+although four skeins of yarn may now be spun with two hands instead of the
+earlier two or two and a half, this yarn is of inferior quality, and at
+times as many as thirty-six skeins have had to be delivered for one thaler.
+In spinning with two hands, naturally twice as much flax is required. If
+this flax is purchased, one receives seven pounds uncleaned for one thaler,
+of which approximately four to five pounds remain after cleaning; from this
+the spinner, with difficulty, can spin only thirty-six skeins.
+Consequently, the work would have to be done entirely without pay if only
+one thaler is given for thirty-six skeins.
+
+Meanwhile, even at higher yarn prices, earnings are so low that a family
+dependent on spinning alone cannot survive. Usually the flax is not
+purchased but grown by the Einlieger and small landowners themselves; in
+that case, however, they must rent land suitable for flax cultivation, buy
+flaxseed, and in a period when manual labor is well paid, devote their
+labor power to preparing the flax. There is still some profit when the flax
+is grown oneself, since one’s own labor is valued less highly than it would
+otherwise be paid; nevertheless, there are also many areas where flax does
+not thrive particularly well or at all, so that the only option remaining
+is to buy it raw if one wishes to engage in spinning during spare hours.
+Not infrequently, larger landowners cultivate flax on their fields for
+their Einlieger at a low price. Likewise, servants employed by larger
+landowners receive some flax to cultivate. Much remains to be desired with
+regard to the processing of flax; however, greater care has recently been
+devoted to spinning. If spinning is done with both hands, only very
+ordinary yarn can be delivered.
+
+b. A quite distinctive source of income for the manual-laboring population
+of Lippe is brickmaking work abroad, or the so-called “going to Holland”
+(Hollandsgehen). Just as in the northern Osnabrück region the peat diggers
+who go to Holstein, Schleswig, Brandenburg, East and West Prussia, and to
+Posen are called “Denmark-goers” because they originally went first to
+Holstein and Schleswig, so in Lippe all brickworkers abroad are called
+“Holland-goers” or “Frisians,” because they originally went to Holland and
+Friesland, although a very large portion of them now emigrates temporarily
+in the opposite direction. Lipper men also go as peat diggers to West
+Friesland and Groningen, more rarely as other kinds of laborers, for
+example as grass cutters, gardeners, masons, carpenters, glue boilers, and
+so forth, as occurs in the Principality of Osnabrück.
+
+Brickmaking has from early times been practiced by the lower classes in the
+Principality of Lippe; for about twenty-five years it has shifted from the
+small landowners more to the Einlieger. As a result of the division of the
+commons, the former received parcels which, although not particularly
+large, were often quite suitable for cultivation and which they now farmed.
+This internal colonization kept only the small landowners at home, since
+agriculture, which had formerly been their secondary occupation, now became
+their principal occupation. Since brickmaking has passed more to the
+Einlieger, it has further expanded. The trade is native to Lippe, and skill
+in it appears to be transmitted from one generation to the next; therefore,
+this work on foreign brickyards may well be regarded as secure for the
+future.
+
+Altogether, approximately 400,000 thalers are brought into the country
+annually through this activity. Even if earnings are weak in some regions
+at times, the government-appointed messengers (Botenmeister or brick
+messengers) always know how to discover new opportunities. Two Botenmeister
+are appointed for Friesland and Holland; they conclude contracts there and
+recruit workers in Lippe. In this way each brickworker is secured in
+respect of his earnings; for if contracts are not fulfilled, he may seek
+recourse from the Botenmeister, who is obliged to represent him before the
+authorities. The Botenmeister travel to Friesland (that is, West Friesland
+and Groningen) and to Holland twice a year, once to conclude the contracts
+and then again to supervise their fulfillment during the work.
+
+An adult brickworker earns, depending on whether circumstances are more or
+less favorable, during the six months of his absence forty to sixty thalers
+in net cash. Individual masters not infrequently bring back more than one
+hundred, sometimes even two hundred thalers. In dry summers, when the clay
+from which the bricks are made dries quickly and therefore can be fired
+more frequently, earnings are highest.
+
+Of lesser importance is the other manual labor performed by Lippe Einlieger
+in “Friesland”; this consists chiefly of peat digging. Earnings are lower,
+but these peat diggers also remain away from home for a shorter time. In
+about three months they now earn fifteen to twenty, at most twenty-five
+thalers; they depart in April and return toward the end of June or July.
+Their work, however, is more arduous and less healthy, since it must be
+done in wet conditions.
+
+----
+[Footnote]
+
+The reviewer has often traversed on foot the classical soil of the
+Principality of Lippe, where Hermann once defeated Varus and where now, on
+the summit of the Teutoburg Forest, the monument of the German
+hero—unfortunately not yet completed—rises. On one such occasion he once
+encountered an Einlieger who told him that he had formerly gone to
+Friesland as a peat digger. He estimated his earnings at about twenty
+thalers; sometimes he had still had to deduct travel expenses from this,
+sometimes he had also had somewhat more. This worker may serve as an
+example of how little money is required to make the journey from Lippe to
+Friesland. He stated that on the outward journey, when he took some
+provisions from home, he had not needed a full thaler; on the return
+journey, when these were lacking, he had not always managed with that
+amount. Meanwhile, on the road they had mostly eaten only bread; only once,
+namely in Haselünne, where they had always taken quarters with a butcher,
+had they eaten a warm evening meal. The meal had been so good that it need
+not have been better even at a wedding; they had received soup with beef
+and then sauerkraut with bacon or ham. Including the night’s lodging (on
+hay) and the coffee enjoyed the next morning, seven marks had been paid in
+total. That was not excessive, but the journey would have become too
+expensive if they had incurred such an expense for every night’s lodging.
+One sees what privations these workers endure on the road.
+
+[Footnote ended]
+----
