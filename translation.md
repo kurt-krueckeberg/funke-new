@@ -8,14 +8,14 @@ Statistik, 1847, p. 1059).
 
 In 1834 the population was 98,428 (97,720), and by 1840 it had risen to
 104,462, so that one may assume an average annual increase of the
-population of 0.7 percent. On average, 5,148 inhabitants fall to the square
-mile. This is a population density found in few German states. Only the
-Kingdom of Saxony, with 6,760 inhabitants per square mile; the Grand Duchy
-of Hesse, with 5,578; the Duchy of Saxe-Altenburg, with 5,367; and the
-Principality of Reuss-Greiz, with 5,170, are more densely populated.
+population of 0.7 percent. On average, there are 5,148 inhabitants per
+square mile, a population density found in few German states. Only
+the Kingdom of Saxony, with 6,760 inhabitants per square mile; the Grand
+Duchy of Hesse, with 5,578; the Duchy of Saxe-Altenburg, with 5,367; and
+the Principality of Reuss-Greiz, with 5,170, are more densely populated.
 
 If we now consider that the Principality of Lippe is by no means fertile
-and cultivated throughout, but rather, being mountainous, often resists
+and cultivated throughout, but, being mountainous, often resists
 cultivation; that it also has large forests and some stretches of heath;
 and that it contains only small towns, we must already conclude from this
 that circumstances of a very peculiar kind must exist there, by which the
