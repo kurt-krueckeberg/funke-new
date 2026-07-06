@@ -419,467 +419,440 @@ does little for the needs of his day laborers. The laborers are then all
 the worse off, since their work obligation requires them to remain
 constantly available and prevents them from seeking earnings elsewhere.
 
-**TODO: RESUME HERE**:
-### 3. The Improvement of the Condition of the Einlieger
+### 3. The Improvement of the Condition of the *Einlieger*
 
-Whether and how the condition of the Einlieger can be improved is something
-about which much may certainly be said; but in Lippe, as everywhere, a
-thoroughgoing remedy is lacking. In regions that are less cultivated, much
-can be achieved through internal colonization. In Lippe, agriculture too is
-capable of higher development; in particular, here as almost everywhere,
-the small rivers could still frequently be used for meadow cultivation.
-Meanwhile, agriculture cannot be developed to such a stage that the great
-existing mass of Einlieger could all be employed through agriculture.
+Much can be said about whether, and how, the condition of the *Einlieger*
+can be improved. In Lippe, as elsewhere, however, no thorough remedy is
+available. In less fully cultivated regions, much can be accomplished
+through internal colonization. Agriculture in Lippe, too, could be
+developed further. Here, as almost everywhere, the small rivers could often
+be used for meadow cultivation. But agriculture cannot be developed so far
+that the great existing mass of *Einlieger* could all be employed by it.
 
-The divisions of the Gemeinheiten (*common lands*) in our Principality of
-Osnabrück have also had a very harmful effect on the class of landless
-rural inhabitants, the Heuerleute (*tenant laborers*), since they can keep
-less livestock than was formerly the case. Nevertheless, it has not yet
-become impossible for them to keep a cow, as is the case in Lippe, where,
-however, the Einlieger generally derived less significant benefit from the
-Gemeinheiten than our Heuerleute did from the often very extensive Marken
-(*common lands or communal territories*).
+The division of the *Gemeinheiten* — the common lands — in our Principality
+of Osnabrück has also harmed the landless rural inhabitants, the
+*Heuerleute*, since they can keep less livestock than before. Even so, it
+has not yet become impossible for them to keep a cow, as it has in Lippe.
+In Lippe, however, the *Einlieger* generally derived less benefit from the
+*Gemeinheiten* than our *Heuerleute* did from the often very extensive
+*Marken*.
 
-The benefit that the Einlieger had from the right to drive a cow onto the
-common pasture is not, incidentally, rated very highly, since in order to
-keep such a cow profitably at least 6 to 8 Scheffelsaat of land and a
-meadow corresponding to that amount are said to be necessary. But there are
-already too many Einlieger in the country to be able to give all of them
-both. Their cows, therefore, were already before the divisions of the
-Gemeinheiten not kept by the Einlieger precisely to their advantage.
+The benefit that the *Einlieger* had from the right to drive a cow onto the
+common pasture is, in any case, not rated very highly. It is said that
+keeping such a cow profitably requires at least six to eight *Scheffelsaat*
+of land and a meadow in proper proportion. But there are already too many
+*Einlieger* in the country for all of them to be given both. Even before
+the *Gemeinheiten* were divided, therefore, the cows kept by the
+*Einlieger* were not necessarily kept to their advantage.
 
-This may well be true; nevertheless, it seems to us that a rural economy,
-even a small one, is incomplete without a cow, if only because the family
-must then do without the highly nourishing and strengthening milk, apart
-from other advantages. In Lippe, instead of a cow, the Einlieger keep one
-or two goats in order to have milk for their coffee. These admittedly cost
-less to maintain, but they also provide nowhere near the same advantages.
-Butter is naturally entirely lacking in the household.
+This may well be true. Still, it seems to us that even a small rural
+household is incomplete without a cow, if only because the family must then
+do without nourishing and strengthening milk, quite apart from other
+benefits. In Lippe, instead of a cow, the *Einlieger* keep one or two goats
+in order to have milk for their coffee. These cost less to maintain, but
+they provide nothing like the same advantages. Butter, of course, is
+entirely lacking in the household.
 
-There are, however, still some Einlieger holdings with which enough land is
-connected that one or two cows can be kept, with which the field is then
-also worked. But these holdings are rented at a high price; the butter
-usually has to be turned into money, so that Einlieger of this kind cannot
-exactly be called more prosperous than the others. In any case, however,
-they have better nourishment.
+There are still some *Einlieger* holdings with enough land attached to keep
+one or two cows, which are then also used to work the field. But these
+holdings are rented at a high price, and the butter usually has to be sold
+for cash. Such *Einlieger* therefore cannot really be called more
+prosperous than the others. They do, however, have better nourishment.
 
-Given the way conditions have now taken shape in Lippe, the improvement of
-the condition of the Einlieger cannot be achieved in any thoroughgoing way
-by making them, as is still possible with the Heuerleute in our
-principality, from a trade- or industry-dependent population back into a
-more agricultural one. Their number has accumulated, at least in many
-places, to such a degree that this is no longer possible. Even if every
-family now wanted to keep only one cow, all arable land would not
-infrequently have to be handed over to the Einlieger. And even then they
-could not get by without a secondary occupation by which they earned ready
-money.
+Given the way conditions have now developed in Lippe, the condition of the
+*Einlieger* cannot be fundamentally improved by turning them back from a
+trade- or industry-dependent population into a more agricultural one, as
+may still be possible with the *Heuerleute* in our principality. In many
+places their numbers have grown too large for that. Even if every family
+wanted to keep only one cow, all arable land would often have to be handed
+over to the *Einlieger*. And even then they could not manage without some
+secondary occupation that brought in ready money.
 
-If, therefore, the Lippe Einlieger cannot be made into small agricultural
-householders, this nevertheless does not exclude the possibility that their
-condition can be improved if they are given the opportunity, in accordance
-with present circumstances, to engage in more agriculture overall than has
-happened up to now. For this reason, it would be fair to require that those
-landowners who wish to take in Einlieger should provide them, along with a
-suitable dwelling, at least a garden and, in addition, several Scheffelsaat
-of arable land; otherwise they should not be allowed to take them in at
-all.
+Although the Lippe *Einlieger* cannot be turned into small agricultural
+householders, their condition could still be improved by giving them, under
+present circumstances, more opportunity to engage in agriculture than they
+have had up to now. It would therefore be fair to require that landowners
+who wish to take in *Einlieger* provide them not only with a suitable
+dwelling, but also at least a garden and several *Scheffelsaat* of arable
+land. Otherwise they should not be allowed to take them in at all.
 
-Then only the larger landowners would take in Einlieger — those who, in
-times of need, can care for them and give them the opportunity to earn
-something — and not the small settlers who arose only later. If these
-latter, as soon as they can produce a room and chamber, rent these to one
-or another Einlieger for 4 to 6 Taler and more, but give him practically no
-land at all, then there is always the greatest probability that the people
-will become impoverished and, even if not wholly maintained by the
-municipality, will still have to be supported. For even if the man may
-bring home 50 Taler or even more in clear money from his work abroad, that
-still does not suffice to feed a family throughout the whole year if almost
-all its necessities of life must be bought.
+In that case, only the larger landowners would take in *Einlieger* — those
+who can care for them in times of need and give them opportunities to earn
+something. The later small settlers would not do so. If these small
+settlers, as soon as they can produce a room and chamber, rent them to an
+*Einlieger* for four to six Taler or more, but give him practically no
+land, the result is almost certain impoverishment. Even if the man brings
+home 50 Taler or more in clear money from work abroad, that is not enough
+to feed a family for the whole year if nearly all necessities must be
+bought.
 
-If all Einlieger possessed a small agricultural holding, the so-called
-Friesländer (*Friesland-goers, seasonal migrant laborers*) would also
-concern themselves more with rural work and learn it, which is not now the
-case, but will be absolutely necessary as soon as earnings abroad decline —
-something that has already happened under present circumstances.
+If all *Einlieger* had a small agricultural holding, the so-called
+*Friesländer* would also pay more attention to rural work and learn it. At
+present this is not the case, but it will become absolutely necessary as
+soon as earnings abroad decline — something that has already begun under
+present conditions.
 
-Up to now the Einlieger have, on the whole, still more or less maintained
-themselves; yet the prospects are becoming darker. Alongside foreign
-brickmaking work, on which the catastrophe has had an unfavorable effect,
-road construction in the country and the building of the neighboring
-railway also brought some earnings. But the railway is completed, and there
-are not very many roads left to build; therefore this source of earnings,
-too, cannot be relied upon very much in the long run.
+Up to now the *Einlieger* have, on the whole, more or less maintained
+themselves. But the prospects are becoming darker. In addition to foreign
+brickmaking work, on which recent events have had an unfavorable effect,
+road construction within the country and the building of the neighboring
+railway have also provided earnings. But the railway is now completed, and
+not many roads remain to be built. This source of income, too, therefore
+cannot be relied on for the long term.
 
-If, nevertheless, the increase of the Einlieger continues from year to
-year, only general impoverishment can result. This will occur all the
+If the number of *Einlieger* nevertheless continues to increase from year
+to year, only general impoverishment can result. This will happen all the
 sooner if earnings abroad, as has already been the case for several years,
-also become smaller. The number of periodic emigrants must then decline —
-but what then, if those who remain behind cannot be permanently and
-sufficiently employed in the country either, and the farm owners in
-addition bring foreign servants into the land because the native ones do
+continue to decline. The number of seasonal migrants must then fall. But
+what will happen if those who remain at home cannot be permanently and
+sufficiently employed within the country, while the farm-holding owners
+continue to bring foreign servants into Lippe because the native workers do
 not understand agricultural work?
-This could be remedied in part if the Friesländer (*Friesland-goers,
 
-seasonal migrant laborers*) remained in the country for at least some
-years, either before they periodically emigrated or afterward, and served
-on the farms. Then they would become better acquainted with native work and
-local conditions; they would know better how to occupy themselves in
-winter, even if they emigrated, and the farm owners would not need to have
-their servants come from abroad.
+This could be remedied in part if the *Friesländer* remained in the country
+for at least some years, either before they began seasonal migration or
+afterward, and served on the farms. They would then become better
+acquainted with local work and local conditions. Even if they later
+migrated, they would know better how to occupy themselves in winter, and
+the farm-holding owners would no longer need to bring in servants from
+outside the country.
 
-The only question is how this is to be brought about, since it does not
-happen on its own. The simplest thing would be if the farm owners were
-willing or able to give their servants wages as high as the earnings
-abroad. Meanwhile, with this increase in wages, many a peasant household
-would probably not be able to subsist. Yet it may be assumed that even with
-some increase in day wages, many brickworkers would prefer to remain in the
-country. To be sure, this increase in wages would be a sacrifice on the
-part of the farm owners, since they can obtain servants more cheaply from
-abroad; but in the long run they would nevertheless benefit from it, since
-the unavoidable consequences of increased poverty will finally fall back on
-them themselves.
+The question is how this can be brought about, since it will not happen on
+its own. The simplest solution would be for farm-holding owners to give
+their servants wages as high as those earned abroad. But with such an
+increase in wages, many a peasant household would probably be unable to
+subsist. Still, it may be assumed that even a moderate increase in day
+wages would lead many brickworkers to remain in the country. Such an
+increase would certainly be a sacrifice for the farm-holding owners, since
+they can obtain servants more cheaply from outside. In the long run,
+however, they themselves would benefit, because the unavoidable
+consequences of increasing poverty will finally fall back upon them.
 
-We do not venture to decide whether it is practicable for legislation to
-intervene here, as has also been proposed. It would, however, certainly be
-useful if the Frieslandsgänger (*Friesland-goers, seasonal migrant
-workers*) could be required to remain for some years in their homeland, so
-as to become acquainted with rural work. Meanwhile, it is always very
-questionable to interfere with people’s means of earning a living by police
-measures.
+We do not venture to decide whether legislative intervention would be
+practicable, as has also been proposed. It would certainly be useful if the
+*Frieslandsgänger* could be required to remain in their homeland for some
+years, so that they might become familiar with rural work. Yet it is always
+highly questionable to interfere by police measures with people’s means of
+earning a living.
 
-The inclination toward periodic emigration is now predominant. The fact
-that it is increasing rather than decreasing is due especially to the
-circumstance that the young fellows like to live unbound, even though they
-may have to perform slave labor for part of the year. This unbound life,
-which they lead more or less while present in their homeland during the
-winter, and for which their summer earnings give them the means, can only
-have a harmful effect on the country, especially on the lower class.
+The inclination toward seasonal migration is now predominant. It is
+increasing rather than decreasing especially because the young men like to
+live without restraint, even though for part of the year they may have to
+perform slave-like labor. This unbound life, which they lead more or less
+during the winter when they are at home, and for which their summer
+earnings provide the means, can only harm the country, especially the lower
+class.
 
-Partly necessary, but also many unnecessary, expenditures usually absorb
-the earnings completely. Sufficient employment in winter is lacking, which
-must always be regarded as a misfortune and merely provides opportunity for
-all kinds of improprieties. The steadiness of life that is so well suited
-to rural conditions and has so beneficial an effect on the inner person is
-entirely lacking among these wandering Einlieger (*resident landless
-tenants/lodgers*).
+Partly necessary, but also many unnecessary, expenses usually consume their
+earnings completely. Sufficient winter employment is lacking, and this must
+always be regarded as a misfortune, since it merely creates opportunity for
+all kinds of disorder. The steadiness of life so well suited to rural
+conditions, and so beneficial for the inner person, is entirely lacking
+among these wandering *Einlieger*.
 
-Although some young people may use part of their earnings to support their
-parents and thereby indirectly also contribute to the common good, on the
-whole they do little for it. They lack too much the noble impulse toward
-their own lasting acquisition, the true thrift that holds together what has
-been earned, and the joy in property gained by their own effort. But if a
-young man does not strive for property of his own already in earlier years,
-this will be of the greatest disadvantage for the future.
+Some young people may use part of their earnings to support their parents
+and thereby indirectly contribute to the common good. On the whole,
+however, they do little for it. They lack too much the noble impulse toward
+lasting acquisition, true thrift that preserves what has been earned, and
+joy in property gained by one’s own effort. If a young man does not already
+strive for property of his own in earlier years, this will greatly
+disadvantage him in the future.
 
-Most of the young brickworkers, when they set out again on their wandering
-in spring, have got no further than they had already been the year before.
-Their laboriously earned money has disappeared from their hands. A
-glittering luxury wholly unsuited to the lower classes, encouraged by
-relatively abundant earnings, and the love of pleasure have exacted their
-tribute; but no thought has been given to a lasting stock of acquisition,
-to be increased by yearly additions. That the general introduction of
-savings banks would be very beneficial scarcely needs mention; yet their
-mere existence, as we could show by examples, is still not enough. The
-inclination to use them must also be awakened.
+Most young brickworkers, when they set out again in spring, have advanced
+no further than they had the year before. Their hard-earned money has
+disappeared from their hands. A glittering luxury wholly unsuited to the
+lower classes, encouraged by relatively abundant earnings, and the love of
+pleasure have taken their tribute. No thought has been given to a lasting
+stock of savings, to be increased year by year. The general introduction of
+savings banks would plainly be very beneficial. Yet their mere existence,
+as examples could show, is not enough. The inclination to use them must
+also be awakened.
 
-It will be of great influence on the class of the Einlieger if the farm
-owners concern themselves with them in all circumstances of life and
-themselves preserve and develop that activity which must remain proper to
-the peasant estate. Just as a farm owner, if he preserves his
-characteristically peasant nature, grows together with the soil he
-cultivates, so too he grows together with those who live upon it. A
-reciprocal influence will take place between him and the Einlieger. His
-broader experience, his more extensive knowledge of agriculture gained
-through experiments or also through instruction, he will communicate to the
-Einlieger and seek to lead them further by means of what has proved useful
-and advantageous; in return, he may gain from their healthy common sense,
-which has often been developed to a high degree in the hard school of
-deprivation and strenuous activity.
+It will greatly affect the *Einlieger* class if the farm-holding owners
+concern themselves with them in all circumstances of life, while themselves
+preserving and developing the active character proper to the peasant
+estate. Just as a farmholder, if he preserves his distinctively peasant
+character, grows together with the soil he cultivates, so too he grows
+together with those who live upon it. A reciprocal influence will arise
+between him and the *Einlieger*. He will communicate to them his broader
+experience and his greater agricultural knowledge, gained through
+experiment or instruction, and will seek to lead them forward by what has
+proved useful and advantageous. In return, he may gain from their healthy
+common sense, often developed to a high degree in the hard school of
+deprivation and strenuous labor.
 
-Even if in Lippe the knowledge of the peasant landowner may have increased,
-and agriculture as a whole may be carried on with more insight, and outward
-manners may also have improved insofar as gluttony is disappearing more, it
-still cannot be denied that, as in so many regions, the characteristically
-developed manner in customs, dress, opinions, indeed in the whole outward
-as well as inward physiognomy, is yielding more or less to a very
-superficial polish.
+Even if the knowledge of the peasant landowner in Lippe has increased,
+agriculture as a whole is carried on with more understanding, and outward
+manners have improved insofar as gluttony is disappearing, it still cannot
+be denied that, as in so many regions, the distinctive character of
+customs, dress, opinions, and indeed the whole outward and inward
+physiognomy of peasant life is yielding more or less to a very superficial
+polish.
 
-The High German language then sometimes displaces Low German, although the
-latter is most intimately bound up with peasant life in the countryside.
-Demands upon life are then increased; in general, the formerly quite simple
-peasant household is very much, but essentially to its disadvantage,
-screwed upward. Luxury and foreign fashions penetrate; dressed differently,
-one then also considers oneself to belong to another estate. The old
-tradition is lost, and with it also strength of character.
+High German then sometimes displaces Low German, although Low German is
+most intimately bound up with rural peasant life. Demands upon life
+increase. The formerly simple peasant household is raised, but essentially
+to its disadvantage. Luxury and foreign fashions penetrate. Once dressed
+differently, people also begin to think they belong to another estate. The
+old tradition is lost, and with it strength of character.
 
-The sons and daughters of such larger farm owners then believe they must
-lead a different life, and they often show little inclination for rural
-work, which is not infrequently left to the servants alone. This has only a
-harmful effect. Everyone who is a farmer must have gone through all the
-work himself and understand it from the ground up, even if later he does
-not necessarily put his hand to every task. If a farmer and his wife
-themselves take little active part, many opportunities are thereby lost to
-influence the Einlieger, especially also their children.
+The sons and daughters of such larger farm-holding owners then believe they
+must lead a different life, and they often show little inclination for
+rural work, which is not infrequently left to the servants alone. This can
+only have harmful effects. Everyone who is to be a farmer must have gone
+through all the work himself and understand it from the ground up, even if
+later he does not put his hand to every task. If a farmer and his wife
+themselves take little active part, many opportunities are lost to
+influence the *Einlieger*, especially their children.
 
-These children, especially the girls, are handed over, as it were, to the
-farm owners and their wives for upbringing immediately after being released
-from school, and sometimes even before, since they must hire themselves out
-as early as possible. What, then, if both exert little or no influence on
-them? Must these children not grow up undisciplined in the years when they
-especially need guidance, and therefore remain without firm inner support?
+These children, especially the girls, are in a sense handed over to the
+farm-holding owners and their wives for upbringing as soon as they leave
+school, and sometimes even before, since they must hire themselves out as
+early as possible. What happens, then, if both exert little or no influence
+on them? Must these children not grow up undisciplined in the very years
+when they most need guidance, and therefore remain without firm inner
+support?
 
-The outward disadvantages too are significant; for there is a very great
-difference between whether a young girl works under the constant guidance
-and supervision of the housewife or is left more to herself. Formerly, for
-example, the Meierfrauen (*wives of Meier farm owners*) considered it a
-special honor to achieve the greatest possible perfection in all flax work,
-which throughout requires great care. This care then passed of itself to
-the servant girls who worked under their eyes.
+The outward disadvantages are also considerable. There is a great
+difference between a young girl working under the constant guidance and
+supervision of the housewife and one left more to herself. Formerly, for
+example, the *Meierfrauen* considered it a special honor to achieve the
+greatest possible perfection in all flax work, which requires care
+throughout. This care then passed naturally to the servant girls who worked
+under their eyes.
 
-At present the linen industry is less profitable for larger households than
-it was formerly, and for that reason less care is now devoted to it. The
-Meierfrauen and their daughters often concern themselves with it only very
-little. Yet given the great importance that this industry has not only for
-the landless population in Lippe but for northwestern Germany in general,
-it must be wished most urgently that, especially on the part of the larger
-landowners, greater attention be given to it and everything possible be
-done to produce better flax and then to process it with the greatest care.
+At present, the linen industry is less profitable for larger households
+than it formerly was, and for that reason less care is given to it. The
+*Meierfrauen* and their daughters often concern themselves with it very
+little. Yet given the great importance of this industry not only for the
+landless population of Lippe, but for northwestern Germany in general, it
+is urgently to be wished that the larger landowners in particular would
+give it greater attention and do everything possible to produce better flax
+and process it with the greatest care.
 
-This, however, will never and under no circumstances happen if one does not
-carry on flax cultivation oneself. The Einlieger (*resident landless
-tenants/lodgers*) do not, for one thing, have the necessary land for a
-proper rotation in flax cultivation; and, moreover, they cannot give the
-flax — which belongs to the most exhausting crops and therefore requires
-much manure — the fertilization it needs, especially if they cannot even
-keep a cow.
+This will never happen if they do not cultivate flax themselves. The
+*Einlieger*, for one thing, do not have the land necessary for proper crop
+rotation in flax cultivation. Moreover, they cannot give flax — one of the
+most exhausting crops, and therefore one requiring much manure — the
+fertilization it needs, especially if they cannot even keep a cow.
 
-If, furthermore, the flax is carefully prepared, then hand-spun linen, even
-with respect to outward appearance, will stand less far behind machine
-fabrics; and because of its smoothness and strength it will all the more
-readily hold its own in the southern markets, perhaps even displacing
-machine linen again through the virtues that distinguish it by contrast.
-For machine linen cannot fully replace hand-spun linen, and indeed all the
-less so when the yarn, as usually happens, is not spun from the full length
-of the flax, but from small fibers two to three inches long, while hand
-yarn, depending on the length of the flax, consists of fibers of about an
-ell.
+If flax is carefully prepared, then hand-spun linen, even in outward
+appearance, will stand less far behind machine fabrics. Because of its
+smoothness and strength, it will more readily hold its own in southern
+markets, perhaps even displacing machine linen again through the very
+qualities that distinguish it. Machine linen cannot fully replace hand-spun
+linen, especially when the yarn, as usually happens, is not spun from the
+full length of the flax, but from small fibers two or three inches long.
+Hand-spun yarn, by contrast, consists of fibers about an ell long,
+depending on the length of the flax.
 
-In this case, therefore, infinitely more points, hooks, and little fibers
-must appear on the surface of machine linen than on hand-spun linen, which,
-because of its smoothness, is all the more suitable for retaining the
-warmth flowing from the body. The yarn also loses the plant gum through the
-machines; for the water vapors of 80 degrees through which the machine
-thread runs, and the perpendicular spindle with horizontal thread movement,
-dissolve the plant glue and destroy the bast of the fibers, whereby
-durability, smoothness, and stiffness are lost to a large extent.
+For this reason, many more points, hooks, and small fibers must appear on
+the surface of machine linen than on hand-spun linen. Because of its
+smoothness, hand-spun linen is all the more suitable for retaining the
+warmth flowing from the body. The yarn also loses its plant gum in the
+machines. The water vapor of 80 degrees through which the machine thread
+passes, together with the perpendicular spindle and horizontal movement of
+the thread, dissolves the plant glue and destroys the bast of the fibers.
+In this way durability, smoothness, and stiffness are largely lost.
 
 Accordingly, machine linen stands far below genuine linen made from
-hand-spun yarn; and therefore the preparation of such linen is not to be
+hand-spun yarn. The preparation of such linen should therefore not be
 abandoned. Rather, the greatest possible care should be devoted to it, so
-that it may also gain the evenness of threads and the outward appearance of
-the former. Only if hand spinning seeks to perfect itself in every respect
-will it be able to withstand the competition of the spinning machine.
+that it may also gain evenness of thread and the outward appearance of
+machine linen. Only if hand spinning seeks to perfect itself in every
+respect will it be able to withstand competition from the spinning machine.
 
-Toward this perfection of the linen industry, as everywhere, so also in
-Lippe, the landowners themselves must first work, if the landless
-population is to be led toward it. It is therefore a mistake when the
-Meierfrauen (*wives of Meier farm owners*) and their daughters increasingly
-let the linen industry fall away, even if the advantages are smaller than
-before. Rather, they must lead the way in the careful preparation of flax,
-and by doing so they will influence their servant girls in an incalculable
-way, for these girls are to be regarded as the future principal bearers of
-the linen industry.
+As everywhere, so also in Lippe, the landowners themselves must first work
+toward this perfection of the linen industry if the landless population is
+to be led toward it. It is therefore a mistake for the *Meierfrauen* and
+their daughters increasingly to let the linen industry fall away, even if
+its advantages are smaller than before. Rather, they must lead the way in
+the careful preparation of flax. By doing so, they will influence their
+servant girls in an incalculable way, for these girls are to be regarded as
+the future principal bearers of the linen industry.
 
-If these girls do not already in early youth receive careful instruction in
-all the necessary operations for preparing and working flax, then certainly
-nothing excellent can later be expected from them. If the Meier daughters
-occupied themselves more with the flax industry, they themselves would also
-value linen much more highly than they now do, would take pleasure in
-acquiring it, would gladly dress in it, and thereby would also counteract
-the ruinous luxury in clothing that is spreading so widely even among the
-landless class despite all its poverty, undermining the prosperity of many
-a family and unfortunately seeking more and more to displace linen as a
-clothing material in the country.
+If these girls do not receive careful instruction in all the necessary
+operations of preparing and working flax while they are still young, then
+nothing excellent can later be expected from them. If the daughters of the
+*Meier* occupied themselves more with flax work, they themselves would
+value linen more highly than they now do. They would take pleasure in
+acquiring it, gladly dress in it, and thereby counteract the ruinous luxury
+in clothing that is spreading so widely even among the landless class
+despite all its poverty. That luxury undermines the prosperity of many a
+family and, unfortunately, seeks more and more to displace linen as a
+clothing material in the countryside.
 
-To be sure, a portion of the Einlieger has, despite all unfavorable
-circumstances, still on the whole conducted itself respectably. In general,
-however, poverty has greatly increased in recent years, as is sufficiently
-proved by the rush for support from the communal funds and by the spread of
-begging. In part this may be attributed to the unfavorable years that have
-passed; but the cause would seem chiefly to be sought in the
-disproportionately great increase of the landless class, to which reference
-has already been made, and which no longer corresponds to the measure of
-the given conditions in the Principality of Lippe.
+To be sure, part of the *Einlieger* class has, despite all unfavorable
+circumstances, still conducted itself respectably on the whole. In general,
+however, poverty has greatly increased in recent years. This is
+sufficiently proved by the rush for support from the communal funds and by
+the spread of begging. Part of this may be attributed to the unfavorable
+years that have passed. But the chief cause seems to lie in the
+disproportionate increase of the landless class, already discussed, which
+no longer corresponds to the actual conditions of the Principality of
+Lippe.
 
-We have overcome the time when it was regarded as the highest wisdom of the
-state to provide an existence for as many people as possible, although the
-Lippe government still believed only a few years ago that it was
-advantageous to have as many Einlieger as possible. The point is not that
-as many people as possible should have an existence in a country, however
-wretched it may be, but that this existence should also be salutary for
-them and not bring about moral ruin.
+We have passed beyond the time when it was regarded as the highest wisdom
+of the state to provide an existence for as many people as possible,
+although the Lippe government still believed only a few years ago that it
+was advantageous to have as many *Einlieger* as possible. The point is not
+that as many people as possible should have an existence in a country,
+however wretched it may be. The point is that this existence should also be
+salutary for them and not bring about moral ruin.
 
-If the existence of a population is not secured by sufficient means of
-earning a living, that population must become impoverished, even if this
-impoverishment may at first be held back by various means. The outward
-disordering of life then usually also brings about an inward one, and the
-human being then all too often becomes the plaything of sin not fought by
-the power of a living faith.
+If a population’s existence is not secured by sufficient means of earning a
+living, that population must become impoverished, even if the
+impoverishment can at first be held back by various means. The outward
+disordering of life then usually brings about an inward disorder as well,
+and the human being all too often becomes the plaything of sin not resisted
+by the power of a living faith.
 
-In this temporal life, in order to live, we need a healthy earthly
-foundation. This, however, has only too often been forgotten; instead,
-people have believed that this foundation would surely be found of itself
-if only the population were allowed to increase. But if a person merely
-ekes out his existence wretchedly from one day to the next, he necessarily
-decays spiritually, for he loses the capacity to receive higher elements of
-life within himself.
+In this temporal life, we need a healthy earthly foundation in order to
+live. This has only too often been forgotten. Instead, people have believed
+that such a foundation would surely arise of itself if only the population
+were allowed to increase. But if a person merely ekes out a wretched
+existence from one day to the next, he necessarily decays spiritually, for
+he loses the capacity to receive higher elements of life within himself.
 
 It is true that luxury weakens the spirit, while need often strengthens and
-ennobles the inner person — through tribulation and suffering, after all,
-we are to enter into the kingdom of God. But this too has its limits. Apart
-from the fact that, where Christian formation is deficient, a person does
-not use suffering for his inner purification, under constant want the
-bodily needs press forward so irresistibly that, even if higher elements of
-life should have been received, they are stifled, and the whole direction
-of the person becomes increasingly morally groundless.
+ennobles the inner person; through tribulation and suffering, after all, we
+are to enter the kingdom of God. But this too has its limits. Where
+Christian formation is deficient, a person does not use suffering for inner
+purification. And under constant want, bodily needs press forward so
+irresistibly that even if higher elements of life have been received, they
+are stifled, and the person’s whole direction becomes increasingly morally
+groundless.
 
 The high calling of Christianity is to bring the human being inner peace of
-soul. But how is such a thing possible if the continuing insecurity of
-existence, the constant worry — what shall we eat, what shall we drink,
-with what shall we clothe ourselves? — allows the person to come to no
-inner rest; if instead of striving for the kingdom of God, he is filled
-with an anxious striving for bread and a blind greed for monetary gain?
+soul. But how is this possible if the continuing insecurity of existence
+and the constant worry — what shall we eat, what shall we drink, with what
+shall we clothe ourselves? — allow the person no inner rest? How is it
+possible if, instead of striving for the kingdom of God, he is filled with
+anxious striving for bread and blind greed for monetary gain?
 
-In keeping with their situation, the proletarians have generally been
-called, in German, Angstarbeiter (*anxiety-workers, laborers driven by
-insecurity*). The Lippe Einlieger too must be described as such, for even
-with all their work they cannot look toward the future without anxiety. But
-if this happens, must not morals become wild and all vital impulses be
-lost, so that the path leading upward is not found?
-
+In keeping with their situation, proletarians have generally been called,
+in German, *Angstarbeiter* — workers driven by anxiety. The Lippe
+*Einlieger* too must be described in this way, for even with all their work
+they cannot look toward the future without anxiety. If this is so, must not
+morals become wild and all vital impulses be lost, so that the upward path
+is no longer found?
 
 In order to counteract the excessive increase of the landless class in
-Lippe, it seems to us absolutely necessary that legal provisions be enacted
-according to which all lessors would be forbidden to take in Einlieger
-(*resident landless tenants/lodgers*) unless the garden, arable, and meadow
-land necessary according to local conditions can be given to them. This
-seems to us no more a restriction of individual freedom than when, in the
-interest of the general welfare, a house owner is required to arrange his
-domestic facilities so that they are not a fire hazard.
+Lippe, it seems to us absolutely necessary to enact legal provisions
+forbidding all lessors to take in *Einlieger* unless they can provide the
+garden, arable land, and meadow land required by local conditions. This
+seems no more a restriction of individual freedom than requiring, in the
+interest of the common welfare, that a house owner arrange his domestic
+facilities so that they do not create a fire hazard.
 
-Nor should young people be granted consent to marry if no guarantees are
-present that they can live, and if it is instead foreseeable that they must
+Nor should young people be granted permission to marry if there are no
+guarantees that they can live, and if it is foreseeable that they will
 immediately fall into poverty. As in general, so also with respect to the
-Lippe Einlieger, we by no means wish for arbitrary and unnecessary
-obstacles to marriage. We must only repeat what we have already said
-earlier: that the distress of the landless working class has become great
-in large part because the founding of such households was permitted even
-though one had to be convinced in advance that they would not be able to
-subsist, and through which poverty was increased to such a degree that the
-greatest charity of the well-to-do is unable to provide it relief. Compare
-the work cited above, pp. 45 ff.
+Lippe *Einlieger*, we by no means wish for arbitrary or unnecessary
+obstacles to marriage. We merely repeat what we have already said earlier:
+the distress of the landless working class has become so great in large
+part because households were allowed to be founded even when one had to be
+convinced in advance that they could not subsist. Through such households
+poverty increased to such a degree that even the greatest charity of the
+well-to-do is unable to relieve it. Compare the work cited above, pp. 45
+ff.
 
-With special reference to the Lippe conditions, we further observe that the
-new municipal law introduced since 1841 does not seem to have a favorable
-effect on the mood of the Einlieger. They have not, to be sure, been
-materially disadvantaged by it. Rather, the so-called Einliegergeld (*tax
-or fee paid by Einlieger*) has been reduced from 1½ Taler to ½ Taler, and
-in collecting it much consideration is also shown.[^3] In addition, of the
-seven Contributions-Simplen (*basic contribution assessments*) of 5,500
-Taler each assigned to the district municipal funds, two are directed to
-communal road construction and poor relief, thereby calling forth more
-active life in the communities and providing opportunity for earnings.[^4]
-Only the provision that the Einliegergeld, together with one
-Contributions-Simplum, is likewise assigned to the district municipal fund
-and used for public relief seems to be thoroughly unpopular among those
-Einlieger who still maintain themselves by diligence, order, and thrift.
+With special reference to conditions in Lippe, we further observe that the
+new municipal law introduced since 1841 does not seem to have had a
+favorable effect on the mood of the *Einlieger*. They have not, to be sure,
+been materially disadvantaged by it. On the contrary, the so-called
+*Einliegergeld* has been reduced from 1½ Taler to ½ Taler, and much
+consideration is shown in collecting it.[^3] In addition, of the seven
+*Contributions-Simplen* of 5,500 Taler each assigned to the district
+municipal funds, two are directed to communal road construction and poor
+relief, thereby calling forth more active life in the communities and
+providing opportunity for earnings.[^4] But the provision that the
+*Einliegergeld*, together with one *Contributions-Simplum*, is likewise
+assigned to the district municipal fund and used for public relief seems
+thoroughly unpopular among those *Einlieger* who still maintain themselves
+by diligence, order, and thrift.
 
-They state quite openly that it would also be wisest for them to let
-everything they still possess simply be used up, because then they would
-not only be freed from paying the Einliegergeld, but would also have
-support to expect in addition. Even if such talk is not meant quite
-seriously by all, it nevertheless at least reveals the mood of the people.
-It must be admitted that especially in populous places a thoroughly
-perverse spirit prevails among them, so that very many already insist that
-they must be maintained.
+They state quite openly that it would be wisest for them simply to use up
+everything they still possess. Then they would not only be freed from
+paying the *Einliegergeld*, but could also expect support. Even if such
+talk is not meant quite seriously by everyone, it at least reveals the mood
+of the people. It must be admitted that, especially in populous places, a
+thoroughly perverse spirit prevails among them, so that many already insist
+that they must be maintained.
 
-If the Einlieger were appropriately incorporated into the village-community
-association, and if they were also represented in the village council
-according to their circumstances, this would certainly have a beneficial
-effect on their mood. It would especially inspire confidence if some
-sensible Einlieger also took part in the municipal council meetings in
-which the appropriate use of the assigned funds is discussed; by this the
-institution of the council could only gain. Probably a more appropriate and
-less disliked arrangement of poor relief would then also come about.
+If the *Einlieger* were appropriately incorporated into the
+village-community association, and if they were represented in the village
+council according to their circumstances, this would certainly have a
+beneficial effect on their mood. It would especially inspire confidence if
+some sensible *Einlieger* also took part in the municipal council meetings
+where the appropriate use of the assigned funds is discussed. The council
+itself could only gain from this. A more appropriate and less disliked
+arrangement of poor relief would probably also result.
 
-In any case, the system followed up to now must not be continued any
-longer; for the costs of poor relief have doubled in the last decade, often
-in an even shorter time. In the Amt S. (*administrative district S.*), with
-about 10,000 inhabitants, they now amount to about 2,500 Taler annually,
-and despite this, begging has not ceased, even though policemen are
-specially paid to prevent it. In particular, many children wander about
-begging; in this way they are withdrawn from school and are so often ruined
-for their whole lives.
+In any case, the present system cannot be continued any longer. The costs
+of poor relief have doubled in the last decade, often in an even shorter
+time. In the Amt S., with about 10,000 inhabitants, they now amount to
+about 2,500 Taler annually. Despite this, begging has not ceased, even
+though policemen are specially paid to prevent it. Many children in
+particular wander about begging. In this way they are withdrawn from school
+and often ruined for their whole lives.
 
-It has become clear that merely prohibiting begging does not help, despite
+It has become clear that simply prohibiting begging does not help, despite
 the many policemen and the frequent transportation of beggars. Giving alms
 would also have to be forbidden. In its place, however, a poor-relief
-commission should be established for every locality, certainly not without
-participation by the Einlieger, before which all requests for support would
-have to be brought.
+commission should be established for every locality, certainly with
+participation by the *Einlieger*, before which all requests for support
+would have to be brought.
 
-It is not our intention here to set forth further the organization of poor
-relief. In any case, the church must cooperate in it in a quite special
-way, just as it is also recognized in Lippe that the leadership should not
-have been withdrawn from it, as has happened. Such a commission would then
-also have to include the Armenpfleger or Diakonen (*poor-relief overseers
-or deacons*) to be appointed on the model of the ancient church, each of
-whom would be assigned a specific district for special care.
+It is not our intention here to set out the organization of poor relief in
+further detail. In any case, the church must cooperate in it in a special
+way, just as it is also recognized in Lippe that leadership should not have
+been withdrawn from it, as has happened. Such a commission would then also
+have to include the *Armenpfleger* or *Diakonen*, poor-relief overseers or
+deacons appointed on the model of the ancient church, each assigned a
+specific district for special care.
 
-The work by Chalmers on ecclesiastical poor relief, adapted into German by
-O. v. Gerlach, we should very much like to recommend for consideration in
-this respect, especially since it shows how much can be accomplished even
-with small means if only they are applied in the right way. We cannot go
-into particulars here; we add only the general observation that the chief
-attention in a well-organized system of poor relief must be directed
-especially toward remunerative employment of the able-bodied poor. The
-existing labor power, which in isolation not infrequently goes to waste,
-like individual drops running away without creating substantial benefit,
-must be connected as much as possible in such a way that the labor reaches
-its full value.
+We would very much like to recommend for consideration Chalmers’s work on
+ecclesiastical poor relief, adapted into German by O. v. Gerlach,
+especially since it shows how much can be accomplished even with small
+means if only they are applied in the right way. We cannot go into
+particulars here. We add only the general observation that, in a
+well-organized system of poor relief, chief attention must be directed
+especially toward remunerative employment of the able-bodied poor. Existing
+labor power, which in isolation often goes to waste like individual drops
+running away without producing substantial benefit, must be connected as
+much as possible so that the labor reaches its full value.
 
-If this does not happen, and if one believes that one can help by mere
-gifts, then one allows the existing labor power to grow slack instead of
-strengthening it; and thereby a greater capital is destroyed than one will
-ever be able to replace. Thus one will often merely increase distress when
-one thinks one is alleviating it.
+If this does not happen, and if one believes that help can be given by mere
+gifts, then existing labor power is allowed to grow slack instead of being
+strengthened. A greater capital is thereby destroyed than one will ever be
+able to replace. Thus one often increases distress precisely when one
+thinks one is alleviating it.
 
 As everywhere in northwestern Germany, emigration to America has recently
-greatly increased in Lippe as well.[^5] Yet despite this, the population has
-still continued to grow. Although the desire to emigrate is great, the
-Einlieger (*resident landless tenants/lodgers*), especially if they have
-families, usually lack the necessary means.
+increased greatly in Lippe as well.[^5] Yet despite this, the population
+has continued to grow. Although the desire to emigrate is great, the
+*Einlieger*, especially those with families, usually lack the necessary
+means.
 
 It would be especially appropriate for the younger children of landowners
-who cannot marry onto other Kolonate (*hereditary farm holdings*) to
-emigrate. For if they enter the Einlieger class, they usually fare poorly,
-since from youth onward they have not been accustomed to the narrow
-arrangements and the many privations on which the household of an Einlieger
-depends. It would, however, then also be necessary to abolish the provision
-in Kolonatsrecht (*law governing hereditary farm holdings*) according to
-which, at present, their dowry or inheritance portion from the parental
-farm is handed over to them only upon marriage.
+who cannot marry onto other *Kolonate* to emigrate. If they enter the
+*Einlieger* class, they usually fare poorly, since from youth onward they
+have not been accustomed to the cramped arrangements and many privations on
+which an *Einlieger* household depends. It would then also be necessary,
+however, to abolish the provision in *Kolonatsrecht* according to which
+their dowry or inheritance portion from the parental farm is presently
+handed over to them only upon marriage.
 
-Emigration would thereby be made easier, and this is all the more to be
-desired since, in the case of overpopulation such as exists in the
-Principality of Lippe, it ultimately remains the chief means of
-counteracting increasing poverty. This by no means excludes, however, the
-use of other appropriate measures. In the long run, though, these measures
-will bear no fruit if the ground is altogether lacking on which the labor
-power of the landless population can come to development and to a
-utilization corresponding to the labor. We believe we may put forward the
-assertion that this ground is lacking in the Principality of Lippe, and
-that little opportunity is offered to gain it through internal
+Emigration would thereby be made easier. This is all the more desirable
+because, in a case of overpopulation such as exists in the Principality of
+Lippe, emigration ultimately remains the chief means of counteracting
+increasing poverty. This by no means excludes the use of other appropriate
+measures. In the long run, however, such measures will bear no fruit if the
+ground is altogether lacking on which the labor power of the landless
+population can develop and be used in a manner corresponding to the labor.
+We believe we may assert that this ground is lacking in the Principality of
+Lippe, and that little opportunity exists to gain it through internal
 colonization, as is still possible in other countries.
 
 ## II. In the Principality of Schaumburg-Lippe
