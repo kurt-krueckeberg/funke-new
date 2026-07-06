@@ -1,151 +1,128 @@
-# Part 5
+# Part 6
 
-## c.
+This could be remedied in part if the Friesländer (*Friesland-goers,
+seasonal migrant laborers*) remained in the country for at least some
+years, either before they periodically emigrated or afterward, and served
+on the farms. Then they would become better acquainted with native work and
+local conditions; they would know better how to occupy themselves in
+winter, even if they emigrated, and the farm owners would not need to have
+their servants come from abroad.
 
-A portion of the Einlieger (*resident landless tenants/lodgers*) in Lippe
-remains in the country during the summer and, alongside their own
-small-scale agriculture, occupies itself with day labor on the Kolonate
-(*hereditary farm holdings*). Although the earnings of these Einlieger are
-smaller, they are nevertheless generally best off. To be sure, they cannot
-work their way up to great prosperity, but they are more secure against
-impoverishment than the wandering population, which is on the whole less
-thrifty and whose earnings depend too much on external circumstances.
+The only question is how this is to be brought about, since it does not
+happen on its own. The simplest thing would be if the farm owners were
+willing or able to give their servants wages as high as the earnings
+abroad. Meanwhile, with this increase in wages, many a peasant household
+would probably not be able to subsist. Yet it may be assumed that even with
+some increase in day wages, many brickworkers would prefer to remain in the
+country. To be sure, this increase in wages would be a sacrifice on the
+part of the farm owners, since they can obtain servants more cheaply from
+abroad; but in the long run they would nevertheless benefit from it, since
+the unavoidable consequences of increased poverty will finally fall back on
+them themselves.
 
-The present rental arrangements have existed for many years and, if both
-parties act honestly, are still appropriate. Such an Einlieger, who works
-for his Meier (*in Lippe, the general term for a peasant farm owner*) as a
-day laborer, usually pays four to six Taler rent for the dwelling and three
-Taler for the necessary garden land. In addition, he receives 1½ to 2
-Scheffel (*bushels*) of flax sown, for which 1½ to 2 Taler are paid per
-Scheffel, depending on the various districts. He also obtains his other
-needs — wood, boards, piglets, and so forth — from the Meier. Usually he
-also has from the same man several Scheffelsaat (*a local area measure
-based on the amount of seed sown*) of arable land, though this is not fixed
-by contract.
+We do not venture to decide whether it is practicable for legislation to
+intervene here, as has also been proposed. It would, however, certainly be
+useful if the Frieslandsgänger (*Friesland-goers, seasonal migrant
+workers*) could be required to remain for some years in their homeland, so
+as to become acquainted with rural work. Meanwhile, it is always very
+questionable to interfere with people’s means of earning a living by police
+measures.
 
-The Einlieger is obliged, as often as the Meier requires it, to work for
-him; for this he receives, in addition to board, 2½ Sgr. day wage. On some
-noble estates and larger farms, the so-called large day wage has recently
-been introduced — 5 to 8 Sgr. daily for the worker — though, it seems, not
-precisely to the worker’s advantage. Indeterminate services by the
-Einlieger do not occur. Yet farm owners not infrequently make improper use
-of the dependence of their day laborers. It would be especially desirable
-for them to provide the Einlieger with better dwellings; for these are
-sometimes of such a condition that it would be much more in keeping with
-fairness if the people who endure them for a year were paid four Taler
-compensation, rather than having to pay that amount themselves.
+The inclination toward periodic emigration is now predominant. The fact
+that it is increasing rather than decreasing is due especially to the
+circumstance that the young fellows like to live unbound, even though they
+may have to perform slave labor for part of the year. This unbound life,
+which they lead more or less while present in their homeland during the
+winter, and for which their summer earnings give them the means, can only
+have a harmful effect on the country, especially on the lower class.
 
-The extent to which these Einlieger who remain in the country are
-sufficiently employed depends on the insight and competence of the farm
-owners with whom they live. An active and prudent farmer will employ his
-Einlieger a great deal in order to increase the productive forces already
-present in the soil or to awaken new ones, something that is not possible
-without labor. If, however, insight into the nature of agriculture is
-lacking, and agriculture is carried on only mechanically, without any
-question of its further development, then, even if outright idleness does
-not always prevail, there usually prevails a thriftiness that is badly
-misplaced here. In that case a farm owner will try to spend as little as
-possible on day wages and will in general do little for the needs of the
-day laborers. They are then all the worse off, since, because of the labor
-obligation they have undertaken, they must always be ready and are
-therefore prevented from pursuing earnings elsewhere.
+Partly necessary, but also many unnecessary, expenditures usually absorb
+the earnings completely. Sufficient employment in winter is lacking, which
+must always be regarded as a misfortune and merely provides opportunity for
+all kinds of improprieties. The steadiness of life that is so well suited
+to rural conditions and has so beneficial an effect on the inner person is
+entirely lacking among these wandering Einlieger (*resident landless
+tenants/lodgers*).
 
-## 3. The Improvement of the Condition of the Einlieger
+Although some young people may use part of their earnings to support their
+parents and thereby indirectly also contribute to the common good, on the
+whole they do little for it. They lack too much the noble impulse toward
+their own lasting acquisition, the true thrift that holds together what has
+been earned, and the joy in property gained by their own effort. But if a
+young man does not strive for property of his own already in earlier years,
+this will be of the greatest disadvantage for the future.
 
-Whether and how the condition of the Einlieger can be improved is something
-about which much may certainly be said; but in Lippe, as everywhere, a
-thoroughgoing remedy is lacking. In regions that are less cultivated, much
-can be achieved through internal colonization. In Lippe, agriculture too is
-capable of higher development; in particular, here as almost everywhere,
-the small rivers could still frequently be used for meadow cultivation.
-Meanwhile, agriculture cannot be developed to such a stage that the great
-existing mass of Einlieger could all be employed through agriculture.
+Most of the young brickworkers, when they set out again on their wandering
+in spring, have got no further than they had already been the year before.
+Their laboriously earned money has disappeared from their hands. A
+glittering luxury wholly unsuited to the lower classes, encouraged by
+relatively abundant earnings, and the love of pleasure have exacted their
+tribute; but no thought has been given to a lasting stock of acquisition,
+to be increased by yearly additions. That the general introduction of
+savings banks would be very beneficial scarcely needs mention; yet their
+mere existence, as we could show by examples, is still not enough. The
+inclination to use them must also be awakened.
 
-The divisions of the Gemeinheiten (*common lands*) in our Principality of
-Osnabrück have also had a very harmful effect on the class of landless
-rural inhabitants, the Heuerleute (*tenant laborers*), since they can keep
-less livestock than was formerly the case. Nevertheless, it has not yet
-become impossible for them to keep a cow, as is the case in Lippe, where,
-however, the Einlieger generally derived less significant benefit from the
-Gemeinheiten than our Heuerleute did from the often very extensive Marken
-(*common lands or communal territories*).
+It will be of great influence on the class of the Einlieger if the farm
+owners concern themselves with them in all circumstances of life and
+themselves preserve and develop that activity which must remain proper to
+the peasant estate. Just as a farm owner, if he preserves his
+characteristically peasant nature, grows together with the soil he
+cultivates, so too he grows together with those who live upon it. A
+reciprocal influence will take place between him and the Einlieger. His
+broader experience, his more extensive knowledge of agriculture gained
+through experiments or also through instruction, he will communicate to the
+Einlieger and seek to lead them further by means of what has proved useful
+and advantageous; in return, he may gain from their healthy common sense,
+which has often been developed to a high degree in the hard school of
+deprivation and strenuous activity.
 
-The benefit that the Einlieger had from the right to drive a cow onto the
-common pasture is not, incidentally, rated very highly, since in order to
-keep such a cow profitably at least 6 to 8 Scheffelsaat of land and a
-meadow corresponding to that amount are said to be necessary. But there are
-already too many Einlieger in the country to be able to give all of them
-both. Their cows, therefore, were already before the divisions of the
-Gemeinheiten not kept by the Einlieger precisely to their advantage.
+Even if in Lippe the knowledge of the peasant landowner may have increased,
+and agriculture as a whole may be carried on with more insight, and outward
+manners may also have improved insofar as gluttony is disappearing more, it
+still cannot be denied that, as in so many regions, the characteristically
+developed manner in customs, dress, opinions, indeed in the whole outward
+as well as inward physiognomy, is yielding more or less to a very
+superficial polish.
 
-This may well be true; nevertheless, it seems to us that a rural economy,
-even a small one, is incomplete without a cow, if only because the family
-must then do without the highly nourishing and strengthening milk, apart
-from other advantages. In Lippe, instead of a cow, the Einlieger keep one
-or two goats in order to have milk for their coffee. These admittedly cost
-less to maintain, but they also provide nowhere near the same advantages.
-Butter is naturally entirely lacking in the household.
+The High German language then sometimes displaces Low German, although the
+latter is most intimately bound up with peasant life in the countryside.
+Demands upon life are then increased; in general, the formerly quite simple
+peasant household is very much, but essentially to its disadvantage,
+screwed upward. Luxury and foreign fashions penetrate; dressed differently,
+one then also considers oneself to belong to another estate. The old
+tradition is lost, and with it also strength of character.
 
-There are, however, still some Einlieger holdings with which enough land is
-connected that one or two cows can be kept, with which the field is then
-also worked. But these holdings are rented at a high price; the butter
-usually has to be turned into money, so that Einlieger of this kind cannot
-exactly be called more prosperous than the others. In any case, however,
-they have better nourishment.
+The sons and daughters of such larger farm owners then believe they must
+lead a different life, and they often show little inclination for rural
+work, which is not infrequently left to the servants alone. This has only a
+harmful effect. Everyone who is a farmer must have gone through all the
+work himself and understand it from the ground up, even if later he does
+not necessarily put his hand to every task. If a farmer and his wife
+themselves take little active part, many opportunities are thereby lost to
+influence the Einlieger, especially also their children.
 
-Given the way conditions have now taken shape in Lippe, the improvement of
-the condition of the Einlieger cannot be achieved in any thoroughgoing way
-by making them, as is still possible with the Heuerleute in our
-principality, from a trade- or industry-dependent population back into a
-more agricultural one. Their number has accumulated, at least in many
-places, to such a degree that this is no longer possible. Even if every
-family now wanted to keep only one cow, all arable land would not
-infrequently have to be handed over to the Einlieger. And even then they
-could not get by without a secondary occupation by which they earned ready
-money.
+These children, especially the girls, are handed over, as it were, to the
+farm owners and their wives for upbringing immediately after being released
+from school, and sometimes even before, since they must hire themselves out
+as early as possible. What, then, if both exert little or no influence on
+them? Must these children not grow up undisciplined in the years when they
+especially need guidance, and therefore remain without firm inner support?
 
-If, therefore, the Lippe Einlieger cannot be made into small agricultural
-householders, this nevertheless does not exclude the possibility that their
-condition can be improved if they are given the opportunity, in accordance
-with present circumstances, to engage in more agriculture overall than has
-happened up to now. For this reason, it would be fair to require that those
-landowners who wish to take in Einlieger should provide them, along with a
-suitable dwelling, at least a garden and, in addition, several Scheffelsaat
-of arable land; otherwise they should not be allowed to take them in at
-all.
+The outward disadvantages too are significant; for there is a very great
+difference between whether a young girl works under the constant guidance
+and supervision of the housewife or is left more to herself. Formerly, for
+example, the Meierfrauen (*wives of Meier farm owners*) considered it a
+special honor to achieve the greatest possible perfection in all flax work,
+which throughout requires great care. This care then passed of itself to
+the servant girls who worked under their eyes.
 
-Then only the larger landowners would take in Einlieger — those who, in
-times of need, can care for them and give them the opportunity to earn
-something — and not the small settlers who arose only later. If these
-latter, as soon as they can produce a room and chamber, rent these to one
-or another Einlieger for 4 to 6 Taler and more, but give him practically no
-land at all, then there is always the greatest probability that the people
-will become impoverished and, even if not wholly maintained by the
-municipality, will still have to be supported. For even if the man may
-bring home 50 Taler or even more in clear money from his work abroad, that
-still does not suffice to feed a family throughout the whole year if almost
-all its necessities of life must be bought.
-
-If all Einlieger possessed a small agricultural holding, the so-called
-Friesländer (*Friesland-goers, seasonal migrant laborers*) would also
-concern themselves more with rural work and learn it, which is not now the
-case, but will be absolutely necessary as soon as earnings abroad decline —
-something that has already happened under present circumstances.
-
-Up to now the Einlieger have, on the whole, still more or less maintained
-themselves; yet the prospects are becoming darker. Alongside foreign
-brickmaking work, on which the catastrophe has had an unfavorable effect,
-road construction in the country and the building of the neighboring
-railway also brought some earnings. But the railway is completed, and there
-are not very many roads left to build; therefore this source of earnings,
-too, cannot be relied upon very much in the long run.
-
-If, nevertheless, the increase of the Einlieger continues from year to
-year, only general impoverishment can result. This will occur all the
-sooner if earnings abroad, as has already been the case for several years,
-also become smaller. The number of periodic emigrants must then decline —
-but what then, if those who remain behind cannot be permanently and
-sufficiently employed in the country either, and the farm owners in
-addition bring foreign servants into the land because the native ones do
-not understand agricultural work?
+At present the linen industry is less profitable for larger households than
+it was formerly, and for that reason less care is now devoted to it. The
+Meierfrauen and their daughters often concern themselves with it only very
+little. Yet given the great importance that this industry has not only for
+the landless population in Lippe but for northwestern Germany in general,
+it must be wished most urgently that, especially on the part of the larger
+landowners, greater attention be given to it and everything possible be
+done to produce better flax and then to process it with the greatest care.
 
