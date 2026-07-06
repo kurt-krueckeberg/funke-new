@@ -3,7 +3,7 @@
 ## II. Lippe-Detmold
 
 According to the census of 1846, the Principality of Lippe-Detmold supports
-106,046 inhabitants on 20.6 square miles (*Zeitschrift für deutsche
+106,046 inhabitants on 20.6 square miles (Zeitschrift für deutsche
 Statistik[^1], 1847, p. 1059).
 
 In 1834 the population was 98,428 (97,720), and by 1840 it had risen to
