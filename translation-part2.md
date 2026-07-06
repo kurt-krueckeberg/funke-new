@@ -156,3 +156,103 @@ sure, will remain that either resist cultivation entirely or yield only if
 already existing productive forces can be directed into them in order to
 awaken new ones.
 
+
+### 2. The Sources of Livelihood of the Einlieger
+
+The manual-laboring classes in the Principality of Lippe, which include not
+only the Einlieger (*resident landless tenants/lodgers*) but also the small
+landowners who live under the same conditions, support themselves chiefly
+through the linen industry and, secondarily, through brickmaking work
+abroad.
+
+**a.** In the work already cited, *On the Condition of the Heuerleute*
+(*tenant laborers*), etc., we discussed the decline of the linen industry
+in general. What we said there also applies to Lippe. At present, even with
+the greatest diligence, a manual-laboring family can no longer earn its
+livelihood solely through domestic industry in flax or hemp, given the
+spread of machine spinning and machine weaving. Spinning and weaving must
+now be regarded only as supplementary work.
+
+On the whole, however, the linen industry in Lippe was also less important
+in earlier times than in Ravensberg, Minden, Osnabrück, and similar
+regions. For that reason, the decline of the German linen trade has not had
+such thoroughly harmful consequences there as in those regions, where the
+landless population was often entirely dependent on income from spinning
+and weaving, and where, under changed conditions, no work replacing this
+domestic industry has yet been found, nor probably will be found.
+
+As is well known, England has excluded us almost everywhere from the linen
+trade, so that in the end only Cuba remained as an outlet for our products;
+and England has meanwhile already forced its way into that market as well.
+At the same time, with the ever-expanding production of cotton in America,
+cotton fabrics have partly displaced linen fabrics even in the West Indies.
+
+This, however, can only be the case to a certain degree, since for tropical
+countries there is no more suitable clothing than linen, which is both very
+durable and cooling. It is therefore certainly to be expected that, despite
+the machines, a more favorable time will come for the domestic linen
+industry once the political conditions of tropical America have become more
+settled, and if we do not fail to establish favorable direct trade
+relations with it.
+
+On the one hand, hand-spun linen, because of its greater strength and
+durability and its other advantages, will then hold its own alongside
+machine-made linen. On the other hand, the industry of the landless
+population will turn toward more careful preparation of flax for the
+machines.
+
+According to information from a Kolon (*hereditary farmholder*), in Lippe
+about twenty to thirty years ago twelve pieces of so-called Kaufgarn (*yarn
+spun for sale*) were supplied for one Taler; today fifteen to eighteen
+pieces are given for one Taler. It has been claimed that the difference in
+earnings cannot be quite so great, since spinning is now generally done
+with two hands, which was formerly not the case.
+
+It must be noted, however, that although today perhaps four pieces of yarn
+are spun with two hands instead of the former two or two and a half pieces,
+this yarn is of poorer quality, and at times one has even had to supply
+thirty-six pieces for one Taler. Moreover, spinning with two hands
+naturally requires twice as much flax. If this flax is bought, one receives
+seven pounds uncleaned for one Taler, of which about four to five pounds
+remain after cleaning; from that amount the spinner can, with the greatest
+difficulty, spin only thirty-six pieces. Thus the work would have to be
+done entirely for nothing if only one Taler is paid for thirty-six pieces.
+
+Meanwhile, even when yarn prices are higher, the earnings are so low that a
+family dependent on spinning absolutely cannot survive. Usually the flax is
+not bought, but is grown by the Einlieger and small landowners themselves.
+In that case, however, they must rent land suitable for flax cultivation,
+buy the flaxseed, and use their labor to prepare the flax at a time when
+manual labor is well paid.
+
+There is, of course, still some profit when the flax is grown by the family
+itself, since their own labor is valued less highly than it would otherwise
+be paid. Yet there are also many districts where flax does not thrive
+especially well, or does not thrive at all, so that the only option is to
+buy it raw, if one wishes to occupy oneself with spinning at all in spare
+hours.
+
+Not infrequently, the larger landowners grow flax on their fields for their
+Einlieger at a low price. Servants of the larger landowners likewise
+receive some flax grown for them. With respect to the processing of flax,
+much still remains to be desired; in recent times, however, more care has
+been devoted to spinning. If, however, spinning is done with two hands,
+only very ordinary yarn can be produced.
+
+**b.** A very distinctive source of livelihood for Lippe’s manual-laboring
+class is brickmaking work abroad, or the so-called Hollandsgehen (*seasonal
+labor migration to the Netherlands*). Just as here in northern Osnabrück
+the peat diggers who go to Holstein, Schleswig, Brandenburg, East and West
+Prussia, and Posen are called Dänemarksgänger (*seasonal migrant peat
+workers*), because they originally went first to Holstein and Schleswig, so
+in Lippe all brickworkers abroad are called Hollandsgänger (*seasonal
+migrant brickworkers in the Netherlands*) or Friesländer (*seasonal migrant
+laborers in Friesland*), because they first went to Holland and Friesland,
+although a very large number of them now migrate temporarily in precisely
+the opposite direction.
+
+People from Lippe also go to West Friesland and Groningen as peat diggers,
+and more rarely as manual laborers of other kinds, for example as grass
+mowers, gardeners, masons, carpenters, glue boilers, and so forth, as is
+the case in the Principality of Osnabrück.
+
