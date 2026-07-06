@@ -1,19 +1,4 @@
-# 2. On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe [^1], by Pastor Georg Funke in Menslage near Osnabrück.
-
-[^1]: In the preface to my work, *On the Present Condition of the Heuerleute
-    in the Principality of Osnabrück, with Special Reference to the Causes of
-    Their Decline and with a View to the Means of Their Improvement*
-    (Bielefeld, 1847), I invited communications concerning the condition of the
-    landless rural population in northwestern Germany, since I intend to
-    present a fuller account of the circumstances of this class of people, who
-    live in great distress. I have already received such communications from
-    several quarters, for which I here publicly express my thanks; but they are
-    still lacking from many regions. I therefore repeat once more the request I
-    made earlier, and add that such communications, for which I shall in due
-    course show my gratitude by sending the work I intend to publish, will
-    reach me safely through the booksellers Hahn in Hanover and Rackhorst in
-    Osnabrück. — The following article has been prepared on the basis of
-    private communications received.
+# 2. On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe, by Pastor Georg Funke in Menslage near Osnabrück.
 
 ## II. Lippe-Detmold
 
@@ -177,6 +162,105 @@ sure, will remain that either resist cultivation entirely or yield only if
 already existing productive forces can be directed into them in order to
 awaken new ones.
 
+### 2. The Sources of Livelihood of the Einlieger
+
+The manual-laboring classes in the Principality of Lippe, which include not
+only the Einlieger (*resident landless tenants/lodgers*) but also the small
+landowners who live under the same conditions, support themselves chiefly
+through the linen industry and, secondarily, through brickmaking work
+abroad.
+
+**a.** In the work already cited, *On the Condition of the Heuerleute*
+(*tenant laborers*), etc., we discussed the decline of the linen industry
+in general. What we said there also applies to Lippe. At present, even with
+the greatest diligence, a manual-laboring family can no longer earn its
+livelihood solely through domestic industry in flax or hemp, given the
+spread of machine spinning and machine weaving. Spinning and weaving must
+now be regarded only as supplementary work.
+
+On the whole, however, the linen industry in Lippe was also less important
+in earlier times than in Ravensberg, Minden, Osnabrück, and similar
+regions. For that reason, the decline of the German linen trade has not had
+such thoroughly harmful consequences there as in those regions, where the
+landless population was often entirely dependent on income from spinning
+and weaving, and where, under changed conditions, no work replacing this
+domestic industry has yet been found, nor probably will be found.
+
+As is well known, England has excluded us almost everywhere from the linen
+trade, so that in the end only Cuba remained as an outlet for our products;
+and England has meanwhile already forced its way into that market as well.
+At the same time, with the ever-expanding production of cotton in America,
+cotton fabrics have partly displaced linen fabrics even in the West Indies.
+
+This, however, can only be the case to a certain degree, since for tropical
+countries there is no more suitable clothing than linen, which is both very
+durable and cooling. It is therefore certainly to be expected that, despite
+the machines, a more favorable time will come for the domestic linen
+industry once the political conditions of tropical America have become more
+settled, and if we do not fail to establish favorable direct trade
+relations with it.
+
+On the one hand, hand-spun linen, because of its greater strength and
+durability and its other advantages, will then hold its own alongside
+machine-made linen. On the other hand, the industry of the landless
+population will turn toward more careful preparation of flax for the
+machines.
+
+According to information from a Kolon (*hereditary farmholder*), in Lippe
+about twenty to thirty years ago twelve pieces of so-called Kaufgarn (*yarn
+spun for sale*) were supplied for one Taler; today fifteen to eighteen
+pieces are given for one Taler. It has been claimed that the difference in
+earnings cannot be quite so great, since spinning is now generally done
+with two hands, which was formerly not the case.
+
+It must be noted, however, that although today perhaps four pieces of yarn
+are spun with two hands instead of the former two or two and a half pieces,
+this yarn is of poorer quality, and at times one has even had to supply
+thirty-six pieces for one Taler. Moreover, spinning with two hands
+naturally requires twice as much flax. If this flax is bought, one receives
+seven pounds uncleaned for one Taler, of which about four to five pounds
+remain after cleaning; from that amount the spinner can, with the greatest
+difficulty, spin only thirty-six pieces. Thus the work would have to be
+done entirely for nothing if only one Taler is paid for thirty-six pieces.
+
+Meanwhile, even when yarn prices are higher, the earnings are so low that a
+family dependent on spinning absolutely cannot survive. Usually the flax is
+not bought, but is grown by the Einlieger and small landowners themselves.
+In that case, however, they must rent land suitable for flax cultivation,
+buy the flaxseed, and use their labor to prepare the flax at a time when
+manual labor is well paid.
+
+There is, of course, still some profit when the flax is grown by the family
+itself, since their own labor is valued less highly than it would otherwise
+be paid. Yet there are also many districts where flax does not thrive
+especially well, or does not thrive at all, so that the only option is to
+buy it raw, if one wishes to occupy oneself with spinning at all in spare
+hours.
+
+Not infrequently, the larger landowners grow flax on their fields for their
+Einlieger at a low price. Servants of the larger landowners likewise
+receive some flax grown for them. With respect to the processing of flax,
+much still remains to be desired; in recent times, however, more care has
+been devoted to spinning. If, however, spinning is done with two hands,
+only very ordinary yarn can be produced.
+
+**b.** A very distinctive source of livelihood for Lippe’s manual-laboring
+class is brickmaking work abroad, or the so-called Hollandsgehen (*seasonal
+labor migration to the Netherlands*). Just as here in northern Osnabrück
+the peat diggers who go to Holstein, Schleswig, Brandenburg, East and West
+Prussia, and Posen are called Dänemarksgänger (*seasonal migrant peat
+workers*), because they originally went first to Holstein and Schleswig, so
+in Lippe all brickworkers abroad are called Hollandsgänger (*seasonal
+migrant brickworkers in the Netherlands*) or Friesländer (*seasonal migrant
+laborers in Friesland*), because they first went to Holland and Friesland,
+although a very large number of them now migrate temporarily in precisely
+the opposite direction.
+
+People from Lippe also go to West Friesland and Groningen as peat diggers,
+and more rarely as manual laborers of other kinds, for example as grass
+mowers, gardeners, masons, carpenters, glue boilers, and so forth, as is
+the case in the Principality of Osnabrück.
+
 Brickmaking work has been carried on since ancient times by the lower
 classes in the Principality of Lippe; for about twenty-five years it has
 passed more from the small landowners to the Einlieger (*resident landless
@@ -218,32 +302,7 @@ are smaller, but these peat diggers also remain away from their homeland
 for a shorter time. In about three months they now earn 15 to 20, at most
 25 Taler; they leave in April and return toward the end of June or in July.
 Their work, however, is harder and less healthy, since it must be done in
-wet conditions.`*)`
-
-> **Original footnote marked `*)`**:\
-> The reporter has often traversed on foot the classic soil of the
-> Principality of Lippe, where Hermann once defeated Varus, and where now, on
-> the summit of the Teutoburg Forest range, the unfortunately still
-> unfinished monument to the German hero rises. On one such occasion he also
-> once met an Einlieger who told him that he had formerly gone to Friesland
-> as a peat digger. He put the earnings at about 20 Taler; sometimes he had
-> had to deduct the travel costs from that, and sometimes he had also had
-> more.
-> 
-> This worker may serve as an example of how little money is used to make the
-> journey from Lippe to Friesland. He reported that on the outward journey,
-> when he took some provisions from home with him, he used his whole Taler;
-> on the return journey, when these provisions were lacking, he had not
-> always managed with that amount. Meanwhile, mostly only bread was eaten
-> along the way. Only once, namely in Haselünne, where they always took their
-> lodging with a butcher, was a warm supper eaten. The meal had been so good
-> that it need not have been better for a wedding: they had received soup
-> with beef and then sauerkraut with bacon or ham. Including the night’s
-> lodging on hay and the coffee consumed the next morning, a total of 7 Mgr.
-> had been paid for it, which was indeed not too much; yet the journey would
-> have become too expensive for them if they had wanted to make such an
-> outlay for every night’s lodging. — One sees what privations these workers
-> endured on the road.
+wet conditions.[^2]
 
 Although foreign brickmaking work brings the Einlieger very considerable
 earnings, it is said, as landowners claim, to have had little beneficial
@@ -498,9 +557,8 @@ but what then, if those who remain behind cannot be permanently and
 sufficiently employed in the country either, and the farm owners in
 addition bring foreign servants into the land because the native ones do
 not understand agricultural work?
-
-
 This could be remedied in part if the Friesländer (*Friesland-goers,
+
 seasonal migrant laborers*) remained in the country for at least some
 years, either before they periodically emigrated or afterward, and served
 on the farms. Then they would become better acquainted with native work and
@@ -625,7 +683,6 @@ the landless population in Lippe but for northwestern Germany in general,
 it must be wished most urgently that, especially on the part of the larger
 landowners, greater attention be given to it and everything possible be
 done to produce better flax and then to process it with the greatest care.
-
 
 This, however, will never and under no circumstances happen if one does not
 carry on flax cultivation oneself. The Einlieger (*resident landless
@@ -766,11 +823,11 @@ new municipal law introduced since 1841 does not seem to have a favorable
 effect on the mood of the Einlieger. They have not, to be sure, been
 materially disadvantaged by it. Rather, the so-called Einliegergeld (*tax
 or fee paid by Einlieger*) has been reduced from 1½ Taler to ½ Taler, and
-in collecting it much consideration is also shown.*) In addition, of the
+in collecting it much consideration is also shown.[^3] In addition, of the
 seven Contributions-Simplen (*basic contribution assessments*) of 5,500
 Taler each assigned to the district municipal funds, two are directed to
 communal road construction and poor relief, thereby calling forth more
-active life in the communities and providing opportunity for earnings.**)
+active life in the communities and providing opportunity for earnings.[^4]
 Only the provision that the Einliegergeld, together with one
 Contributions-Simplum, is likewise assigned to the district municipal fund
 and used for public relief seems to be thoroughly unpopular among those
@@ -836,15 +893,8 @@ strengthening it; and thereby a greater capital is destroyed than one will
 ever be able to replace. Thus one will often merely increase distress when
 one thinks one is alleviating it.
 
-*) The indirect taxes have meanwhile affected the Einlieger as well through
-the accession to the Zollverein (*German Customs Union*).
-
-**) Compare Antze, on the constitution of the Principality of Lippe, in
-Bülau’s *Jahrbücher für Geschichte und Politik*, 1844, issue VII.
-
-
 As everywhere in northwestern Germany, emigration to America has recently
-greatly increased in Lippe as well.*) Yet despite this, the population has
+greatly increased in Lippe as well.[^5] Yet despite this, the population has
 still continued to grow. Although the desire to emigrate is great, the
 Einlieger (*resident landless tenants/lodgers*), especially if they have
 families, usually lack the necessary means.
@@ -870,11 +920,6 @@ utilization corresponding to the labor. We believe we may put forward the
 assertion that this ground is lacking in the Principality of Lippe, and
 that little opportunity is offered to gain it through internal
 colonization, as is still possible in other countries.
-
-*) Several landowners are said to have emigrated because the consistory
-forced upon the congregations, instead of the Heidelberg Catechism, the
-watery textbook of a former general superintendent. Compare *Janus* of
-1847, vol. I, p. 757.
 
 ## II. In the Principality of Schaumburg-Lippe
 
@@ -1076,3 +1121,52 @@ itself through all times and help to preserve this estate in its
 characteristically distinct nature, protecting it from a general leveling
 in which estate custom and honor disappear.
 
+[^1]: In the preface to my work, *On the Present Condition of the Heuerleute
+    in the Principality of Osnabrück, with Special Reference to the Causes of
+    Their Decline and with a View to the Means of Their Improvement*
+    (Bielefeld, 1847), I invited communications concerning the condition of the
+    landless rural population in northwestern Germany, since I intend to
+    present a fuller account of the circumstances of this class of people, who
+    live in great distress. I have already received such communications from
+    several quarters, for which I here publicly express my thanks; but they are
+    still lacking from many regions. I therefore repeat once more the request I
+    made earlier, and add that such communications, for which I shall in due
+    course show my gratitude by sending the work I intend to publish, will
+    reach me safely through the booksellers Hahn in Hanover and Rackhorst in
+    Osnabrück. — The following article has been prepared on the basis of
+    private communications received.
+
+[^2]: The reporter has often traversed on foot the classic soil of the
+    Principality of Lippe, where Hermann once defeated Varus, and where now, on
+    the summit of the Teutoburg Forest range, the unfortunately still
+    unfinished monument to the German hero rises. On one such occasion he also
+    once met an Einlieger who told him that he had formerly gone to Friesland
+    as a peat digger. He put the earnings at about 20 Taler; sometimes he had
+    had to deduct the travel costs from that, and sometimes he had also had
+    more.
+    
+    This worker may serve as an example of how little money is used to make the
+    journey from Lippe to Friesland. He reported that on the outward journey,
+    when he took some provisions from home with him, he used his whole Taler;
+    on the return journey, when these provisions were lacking, he had not
+    always managed with that amount. Meanwhile, mostly only bread was eaten
+    along the way. Only once, namely in Haselünne, where they always took their
+    lodging with a butcher, was a warm supper eaten. The meal had been so good
+    that it need not have been better for a wedding: they had received soup
+    with beef and then sauerkraut with bacon or ham. Including the night’s
+    lodging on hay and the coffee consumed the next morning, a total of 7 Mgr.
+    had been paid for it, which was indeed not too much; yet the journey would
+    have become too expensive for them if they had wanted to make such an
+    outlay for every night’s lodging. — One sees what privations these workers
+    endured on the road.
+
+[^3]: The indirect taxes have meanwhile affected the Einlieger as well through
+    the accession to the Zollverein (*German Customs Union*).
+
+[^4]: Compare Antze, on the constitution of the Principality of Lippe, in
+    Bülau’s *Jahrbücher für Geschichte und Politik*, 1844, issue VII.
+
+[^5]: Several landowners are said to have emigrated because the consistory
+    forced upon the congregations, instead of the Heidelberg Catechism, the
+    watery textbook of a former general superintendent. Compare *Janus* of
+    1847, vol. I, p. 757.
