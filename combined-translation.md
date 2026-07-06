@@ -1,25 +1,25 @@
-# 2. On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe, by Pastor Georg Funke in Menslage near Osnabrück.
+# 2. On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe [^1], by Pastor Georg Funke in Menslage near Osnabrück.
+
+[^1]: In the preface to my work, *On the Present Condition of the Heuerleute
+    in the Principality of Osnabrück, with Special Reference to the Causes of
+    Their Decline and with a View to the Means of Their Improvement*
+    (Bielefeld, 1847), I invited communications concerning the condition of the
+    landless rural population in northwestern Germany, since I intend to
+    present a fuller account of the circumstances of this class of people, who
+    live in great distress. I have already received such communications from
+    several quarters, for which I here publicly express my thanks; but they are
+    still lacking from many regions. I therefore repeat once more the request I
+    made earlier, and add that such communications, for which I shall in due
+    course show my gratitude by sending the work I intend to publish, will
+    reach me safely through the booksellers Hahn in Hanover and Rackhorst in
+    Osnabrück. — The following article has been prepared on the basis of
+    private communications received.
 
 ## II. Lippe-Detmold
 
 According to the census of 1846, the Principality of Lippe-Detmold supports
 106,046 inhabitants on 20.6 square miles (*Zeitschrift für deutsche
 Statistik[^1], 1847, p. 1059).
-
-[^1]: In the preface to my work, *On the Present Condition of the Heuerleute
-in the Principality of Osnabrück, with Special Reference to the Causes of
-Their Decline and with a View to the Means of Their Improvement*
-(Bielefeld, 1847), I invited communications concerning the condition of the
-landless rural population in northwestern Germany, since I intend to
-present a fuller account of the circumstances of this class of people, who
-live in great distress. I have already received such communications from
-several quarters, for which I here publicly express my thanks; but they are
-still lacking from many regions. I therefore repeat once more the request I
-made earlier, and add that such communications, for which I shall in due
-course show my gratitude by sending the work I intend to publish, will
-reach me safely through the booksellers Hahn in Hanover and Rackhorst in
-Osnabrück. — The following article has been prepared on the basis of
-private communications received.
 
 In 1834 the population was 98,428 (97,720), and by 1840 it had risen to
 104,462, so that one may assume an average annual increase of the
@@ -218,31 +218,32 @@ are smaller, but these peat diggers also remain away from their homeland
 for a shorter time. In about three months they now earn 15 to 20, at most
 25 Taler; they leave in April and return toward the end of June or in July.
 Their work, however, is harder and less healthy, since it must be done in
-wet conditions.*)
+wet conditions.`*)`
 
-*) The reporter has often traversed on foot the classic soil of the
-Principality of Lippe, where Hermann once defeated Varus, and where now, on
-the summit of the Teutoburg Forest range, the unfortunately still
-unfinished monument to the German hero rises. On one such occasion he also
-once met an Einlieger who told him that he had formerly gone to Friesland
-as a peat digger. He put the earnings at about 20 Taler; sometimes he had
-had to deduct the travel costs from that, and sometimes he had also had
-more.
-
-This worker may serve as an example of how little money is used to make the
-journey from Lippe to Friesland. He reported that on the outward journey,
-when he took some provisions from home with him, he used his whole Taler;
-on the return journey, when these provisions were lacking, he had not
-always managed with that amount. Meanwhile, mostly only bread was eaten
-along the way. Only once, namely in Haselünne, where they always took their
-lodging with a butcher, was a warm supper eaten. The meal had been so good
-that it need not have been better for a wedding: they had received soup
-with beef and then sauerkraut with bacon or ham. Including the night’s
-lodging on hay and the coffee consumed the next morning, a total of 7 Mgr.
-had been paid for it, which was indeed not too much; yet the journey would
-have become too expensive for them if they had wanted to make such an
-outlay for every night’s lodging. — One sees what privations these workers
-endured on the road.
+> **Original footnote marked `*)`**:\
+> The reporter has often traversed on foot the classic soil of the
+> Principality of Lippe, where Hermann once defeated Varus, and where now, on
+> the summit of the Teutoburg Forest range, the unfortunately still
+> unfinished monument to the German hero rises. On one such occasion he also
+> once met an Einlieger who told him that he had formerly gone to Friesland
+> as a peat digger. He put the earnings at about 20 Taler; sometimes he had
+> had to deduct the travel costs from that, and sometimes he had also had
+> more.
+> 
+> This worker may serve as an example of how little money is used to make the
+> journey from Lippe to Friesland. He reported that on the outward journey,
+> when he took some provisions from home with him, he used his whole Taler;
+> on the return journey, when these provisions were lacking, he had not
+> always managed with that amount. Meanwhile, mostly only bread was eaten
+> along the way. Only once, namely in Haselünne, where they always took their
+> lodging with a butcher, was a warm supper eaten. The meal had been so good
+> that it need not have been better for a wedding: they had received soup
+> with beef and then sauerkraut with bacon or ham. Including the night’s
+> lodging on hay and the coffee consumed the next morning, a total of 7 Mgr.
+> had been paid for it, which was indeed not too much; yet the journey would
+> have become too expensive for them if they had wanted to make such an
+> outlay for every night’s lodging. — One sees what privations these workers
+> endured on the road.
 
 Although foreign brickmaking work brings the Einlieger very considerable
 earnings, it is said, as landowners claim, to have had little beneficial

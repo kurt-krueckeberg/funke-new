@@ -1,4 +1,4 @@
-# Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe`*)`, vom Pastor Georg Funke in Menslage bei Osnabrück.
+# Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe `*)`, vom Pastor Georg Funke in Menslage bei Osnabrück.
 
 ## II. Lippe-Detmold
 
@@ -14,16 +14,14 @@ Einwohner.
 > ländlichen Bevölkerung im nordwestlichen Deutschland aufgefordert, da ich
 > die Verhältnisse dieser in großer Not lebenden Volksklasse umfassender
 > darzustellen gedenke. Von manchen Seiten sind mir bereits solche
-> Mitteilungen zu-
-> Funke: Über die Verhältnisse der Einlieger in Lippe-Detmold und
-> Schaumburg-Lippe. 1105
-> gegangen, wofür ich hier öffentlich meinen Dank ausspreche; doch fehlen sie
-> auch noch aus sehr vielen Gegenden. Ich wiederhole daher nochmals meine
-> früher ausgesprochene Bitte und bemerke zugleich, dass solche Mitteilungen,
-> für welche ich mich demnächst durch Übersendung der beabsichtigten Schrift
-> dankbar beweisen werde, auf buchhändlerischem Wege durch die Herren Hahn in
-> Hannover und Rackhorst in Osnabrück sicher an mich gelangen. —
-> Nachfolgender Artikel ist nach eingegangenen Privatmitteilungen bearbeitet.
+> Mitteilungen zugegangen, wofür ich hier öffentlich meinen Dank
+> ausspreche; doch fehlen sie auch noch aus sehr vielen Gegenden. Ich
+> wiederhole daher nochmals meine früher ausgesprochene Bitte und bemerke
+> zugleich, dass solche Mitteilungen, für welche ich mich demnächst durch
+> Übersendung der beabsichtigten Schrift dankbar beweisen werde, auf
+> buchhändlerischem Wege durch die Herren Hahn in Hannover und Rackhorst in
+> Osnabrück sicher an mich gelangen. — Nachfolgender Artikel ist nach
+> eingegangenen Privatmitteilungen bearbeitet.
 
 Im Jahre 1834 betrug die Volkszahl 98.428 (97.720), und 1840 war sie auf
 104.462 gestiegen, so dass man als mittlere Durchschnittszunahme der
