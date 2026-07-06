@@ -1121,6 +1121,17 @@ itself through all times and help to preserve this estate in its
 characteristically distinct nature, protecting it from a general leveling
 in which estate custom and honor disappear.
 
+## Citation
+
+(citation)= 
+
+Georg Funke, "Ueber die Verhältnisse der Einlieger in Lippe-Detmold und Schaumburg-Lippe" (On
+the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe),
+Zeitschrift des Vereins für Deutsche Statistik 2 (Berlin: Schneider, 1848), 1104–1122;
+digital images, Münchener DigitalisierungsZentrum / Digitale Bibliothek, Bayerische Staatsbibliothek,
+Munich, <https://www.digitale-sammlungen.de/view/bsb10709532?page=1142%2C1143> : accessed 28 June 2026;
+catalog record, <https://mdz-nbn-resolving.de/details:bsb10709532>; BSB call no. BHS VI 32-2.
+
 [^1]: In the preface to my work, *On the Present Condition of the Heuerleute
     in the Principality of Osnabrück, with Special Reference to the Causes of
     Their Decline and with a View to the Means of Their Improvement*
