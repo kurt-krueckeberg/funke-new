@@ -1,10 +1,10 @@
-# 2. On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe, by Pastor Georg Funke in Menslage near Osnabrück.
+# 2. On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe[^1], by Pastor Georg Funke in Menslage near Osnabrück.
 
 ## II. Lippe-Detmold
 
 According to the census of 1846, the Principality of Lippe-Detmold supports
 106,046 inhabitants on 20.6 square miles (Zeitschrift für deutsche
-Statistik[^1], 1847, p. 1059).
+Statistik, 1847, p. 1059).
 
 In 1834 the population was 98,428 (97,720), and by 1840 it had risen to
 104,462, so that one may assume an average annual increase of the
