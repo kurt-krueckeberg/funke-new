@@ -1,6 +1,6 @@
-# 2. On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe
+# 2. On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe, by Pastor Georg Funke in Menslage near Osnabrück.
 
-By Pastor Georg Funke in Menslage near Osnabrück.
+## II. Lippe-Detmold
 
 According to the census of 1846, the Principality of Lippe-Detmold supports
 106,046 inhabitants on 20.6 square miles (*Zeitschrift für deutsche
@@ -41,7 +41,7 @@ so-called Einlieger (*resident landless tenants/lodgers*), who were
 mentioned only recently in this journal, p. 639, as not having the right to
 vote in municipal affairs.
 
-## 1. Origin of the Einlieger
+### 1. Origin of the Einlieger
 
 The landless rural population in the Principality of Lippe has increased
 since the end of the previous century to such a degree that, as is also the
@@ -176,7 +176,6 @@ certainly yield on average twice as much as before. Some places, to be
 sure, will remain that either resist cultivation entirely or yield only if
 already existing productive forces can be directed into them in order to
 awaken new ones.
-
 
 Brickmaking work has been carried on since ancient times by the lower
 classes in the Principality of Lippe; for about twenty-five years it has
@@ -352,10 +351,7 @@ overpopulation than emigration, which is already taking place in many
 cases; for there is little or no terrain left here for internal
 colonization. We shall return to this.
 
-
-## c.
-
-A portion of the Einlieger (*resident landless tenants/lodgers*) in Lippe
+**c.** A portion of the Einlieger (*resident landless tenants/lodgers*) in Lippe
 remains in the country during the summer and, alongside their own
 small-scale agriculture, occupies itself with day labor on the Kolonate
 (*hereditary farm holdings*). Although the earnings of these Einlieger are
@@ -403,7 +399,7 @@ day laborers. They are then all the worse off, since, because of the labor
 obligation they have undertaken, they must always be ready and are
 therefore prevented from pursuing earnings elsewhere.
 
-## 3. The Improvement of the Condition of the Einlieger
+### 3. The Improvement of the Condition of the Einlieger
 
 Whether and how the condition of the Einlieger can be improved is something
 about which much may certainly be said; but in Lippe, as everywhere, a

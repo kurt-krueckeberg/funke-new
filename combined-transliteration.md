@@ -1,7 +1,5 @@
 # Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe`*)`, vom Pastor Georg Funke in Menslage bei Osnabrück.
 
-The citation is at the {ref}`bottom <citation>`.
-
 ## II. Lippe-Detmold
 
 Das Fürstentum Lippe-Detmold ernährt nach der Zählung von 1846 (Zeitschrift
@@ -466,7 +464,7 @@ wenig für die Bedürfnisse der Tagelöhner tun, welche dann umso übler daran
 sind, da sie wegen der eingegangenen Arbeitsverpflichtung immer bereit sein
 müssen und deshalb behindert sind, anderweitig ihrem Verdienst nachzugehen.
 
-## 3. Die Verbesserung der Lage der Einlieger
+### 3. Die Verbesserung der Lage der Einlieger
 
 Ob und wie die Lage der Einlieger verbessert werden kann, darüber lässt
 sich zwar manches sagen; ein durchgreifendes Mittel fehlt im Lippischen
@@ -804,7 +802,7 @@ es wird noch dazu bei dessen Erhebung mit vieler Rücksicht verfahren`*)`;
 auch werden von den sieben Contributions-Simplen je zu 5.500 Taler an die
 Amtsgemeindekassen zwei zum Kommunalwegbau und zur Armenversorgung
 verwiesen, wodurch ein regeres Leben in den Gemeinden hervorgerufen und
-Gelegenheit zum Verdienst gegeben ist**); nur scheint gerade die
+Gelegenheit zum Verdienst gegeben ist`**);` nur scheint gerade die
 Bestimmung, dass das Einliegergeld nebst dem einen Contributions-Simplum
 ebenfalls an die Amtsgemeindekasse verwiesen ist und zu öffentlichen
 Unterstützungen verwandt wird, unter denjenigen Einliegern, welche sich
