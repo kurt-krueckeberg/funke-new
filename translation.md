@@ -108,15 +108,15 @@ separate dwellings for the *Einlieger*. Empty *Leibzuchtshäuser* —
 retirement or dower houses on farms, often reserved for the older
 generation — were used for this purpose. Later, however, special houses had
 to be built, usually arranged for two families. Such houses are now found
-on almost all hereditary farm holdings.
+on almost all *Kolonate* (rural holdings).
 
 One example shows how greatly the landless *Einlieger* population has grown
 in Lippe in recent times. A farm owner told me that in 1772, when his
 grandfather married into the farm he now owns, one village had only five or
 six *Einlieger*. By 1846, when he drew up the *Einlieger* list, their
 number had risen to 110. The number of landowners, by contrast, was small.
-Of thirty-nine landowners, only ten were larger hereditary farmholders who
-kept four or more horses. Another ten cultivated between 20 and 60 Lippe
+Of thirty-nine landowners, only ten were larger *Kolonen* (holders of rural holdings) who kept four or
+more horses. Another ten cultivated between 20 and 60 Lippe
 *Scheffelsaat*, partly with cows. The rest were small proprietors, the
 *Hoppenplöcker*, who possessed no land beyond the shares of common land
 that had fallen to them, or even only their small gardens. There was also a
@@ -187,9 +187,9 @@ advantages, will then be able to hold its own beside machine-made linen. At
 the same time, the work of the landless population will turn more toward
 the careful preparation of flax for machine processing.
 
-According to information from a *Kolon*, or hereditary farmholder, twelve
-pieces of so-called *Kaufgarn* — yarn spun for sale — were supplied in
-Lippe for one Taler about twenty to thirty years ago. Today, fifteen to
+According to information from a *Kolon* (holder of a rural holding), twelve pieces of so-called
+*Kaufgarn* — yarn spun for sale — were supplied in Lippe for one Taler about
+twenty to thirty years ago. Today, fifteen to
 eighteen pieces must be supplied for the same amount. Some have claimed
 that the difference in earnings cannot be quite so great, since spinning is
 now generally done with both hands, which was formerly not the case.
@@ -288,9 +288,8 @@ season. They usually spend in winter what they earned in summer, without
 thinking of saving anything for later years, especially while they are
 still young.
 
-For that reason, those who serve among the hereditary farmholders are
-better off in the long run, even though they receive only 20 to 30 Taler in
-annual wages. Farm work is more varied, and its close connection with
+For that reason, those who serve among the *Kolonen* are better off in the
+long run, even though they receive only 20 to 30 Taler in annual wages. Farm work is more varied, and its close connection with
 ever-changing nature does not dull the mind. Because the farmer does not
 work alone, but must look upward for prosperity, his direct relation of
 heart to God is preserved. The same cannot be said of brickmaking, which is
@@ -376,8 +375,8 @@ emigration, which is already taking place in many cases. For internal
 colonization, little or no land remains. We shall return to this point.
 
 **c.** Some of the *Einlieger* in Lippe remain in the country during the
-summer. Alongside their own small-scale agriculture, they work as day
-laborers on the *Kolonate* — the hereditary farm holdings. Although these
+summer. Alongside their own small-scale agriculture, they work as day laborers on
+the *Kolonate*. Although these
 *Einlieger* earn less than those who migrate for work, they are generally
 better off. They cannot, to be sure, rise to real prosperity, but they are
 more secure against impoverishment than the wandering population, which is
@@ -420,7 +419,7 @@ does little for the needs of his day laborers. The laborers are then all
 the worse off, since their work obligation requires them to remain
 constantly available and prevents them from seeking earnings elsewhere.
 
-**TODO: RESUME HERE**:wq
+**TODO: RESUME HERE**:
 ### 3. The Improvement of the Condition of the Einlieger
 
 Whether and how the condition of the Einlieger can be improved is something
@@ -962,15 +961,12 @@ say in the Bückeburg region, is his Pflugmann (*plowman, the farmer who
 plows or works the tenant’s land*). All these services have their customary
 rates, and accounts are settled over them in the wintertime.
 
-There are also small **Kolonen (*hereditary landholding holders*)** in
-Schaumburg-Lippe — **Brinksitzer (*small holding-holders on the village
-edge or common*)** — whose condition is usually worse than that of the
-**Einlieger (*resident lodgers without their own holding*)**. Among the
-**Einlieger (*resident lodgers without their own holding*)** there are
+There are also small Kolonen in Schaumburg-Lippe — Brinksitzer (*small
+holding-holders on the village edge or common*) — whose condition is
+usually worse than that of the Einlieger. Among the Einlieger there are
 often people who are relatively well provided for and who at the same time
-have only minor burdens to bear, whereas the small **Kolonen (*hereditary
-landholding holders*)**, as holders, are already drawn more heavily into
-the general and communal burdens.
+have only minor burdens to bear, whereas the small Kolonen, as holders, are
+already drawn more heavily into the general and communal burdens.
 
 Spinning and weaving have remained more of a secondary occupation in
 Schaumburg-Lippe. For that reason, the decline of the linen industry has
@@ -985,64 +981,59 @@ leaves very much to be desired. There has still been little discussion here
 of changing this treatment, although people in other regions have already
 begun to move toward such changes.
 
-Far less than in Lippe-Detmold do the **Einlieger (*resident lodgers
-without their own holding*)** in Schaumburg-Lippe occupy themselves with
-work abroad. **Hollandsgehen (*seasonal labor migration to Holland or
-abroad*)** for mowing and also for herring fishing has greatly declined.
-The workers go more to larger construction projects outside the country,
-for example to Hamburg after the fire, to Bremerhaven, and so forth, and to
-field brickyards in the **Landdrostei Stade (*Hanoverian administrative
-district of Stade*)** and in Brandenburg. That there is also much
-opportunity for work for the **Einlieger (*resident lodgers without their
-own holding*)** within the country itself, and indeed more than in many
-regions, hardly needs mentioning. Mining alone employs a considerable
-number of people throughout the entire year. Less significant than in the
-Hessian part of the former county, in the stone quarries on the Bückeberg,
-are the works in the stone quarries on the Harrl. The extensive forests and
-road construction also provide various employment.
+Far less than in Lippe-Detmold do the Einlieger in Schaumburg-Lippe occupy
+themselves with work abroad. Hollandsgehen (*seasonal labor migration to
+Holland or abroad*) for mowing and also for herring fishing has greatly
+declined.  The workers go more to larger construction projects outside the
+country, for example to Hamburg after the fire, to Bremerhaven, and so
+forth, and to field brickyards in the Landdrostei Stade (*Hanoverian
+administrative district of Stade*) and in Brandenburg. That there is also
+much opportunity for work for the Einlieger within the country itself, and
+indeed more than in many regions, hardly needs mentioning. Mining alone
+employs a considerable number of people throughout the entire year. Less
+significant than in the Hessian part of the former county, in the stone
+quarries on the Bückeberg, are the works in the stone quarries on the
+Harrl. The extensive forests and road construction also provide various
+employment.
 
-One principal labor of the **Einlieger (*resident lodgers without their own
-holding*)** is the **Dienste (*obligatory labor services*)**. In the
-Principality of Schaumburg-Lippe, the redemption of manorial dues and
-services has not yet taken place. For the larger **Kolonen (*hereditary
-landholding holders*)**, the **Einlieger (*resident lodgers without their
-own holding*)** usually take over the **Handdienste (*manual labor
-services*)** for payment, or, as people say, perform the **Diensttage
-(*service days*)**. These larger **Kolonen (*hereditary landholding
-holders*)** usually stand with the **Dienstbauern (*peasants owing manorial
-labor service*)** on such a footing that, instead of the Kolonen
-themselves, specific **Einlieger (*resident lodgers without their own
-holding*)** are summoned, often from other **Kolonaten (*hereditary
-landholdings*)** and in other villages.
+One principal labor of the Einlieger is the Dienste (*obligatory labor
+services*). In the Principality of Schaumburg-Lippe, the redemption of
+manorial dues and services has not yet taken place. For the larger Kolonen,
+the Einlieger (*resident lodgers without their own holding*) usually take
+over the Handdienste (*manual labor services*) for payment, or, as people
+say, perform the Diensttage . These larger Kolonen usually stand with the
+Dienstbauern (*peasants owing manorial labor service*) on such a footing
+that, instead of the Kolonen themselves, specific Einlieger are summoned,
+often from other Kolonaten and in other villages.
 
-The **Einlieger (*resident lodgers without their own holding*)** do not
-contribute to the communal burdens. The obligation to contribute to
-country-road construction through **Landfolgen (*compulsory territorial
-labor obligations*)** is redeemed each year by most **Kolonen (*hereditary
-landholding holders*)** through payment of four **Contributionssimplen
-(*basic contribution assessments*)**. The country roads are therefore
-usually repaired and maintained by day laborers, who earn 8 Sgr. per day.
-This work can likewise be regarded as one of the main sources of income of
-the **Einlieger (*resident lodgers without their own holding*)**.
+The Einlieger do not contribute to the communal burdens. The obligation to
+contribute to country-road construction through Landfolgen (*compulsory
+territorial labor obligations*) is redeemed each year by most Kolonen
+(*hereditary landholding holders*) through payment of four
+Contributionssimplen (*basic contribution assessments*). The country roads
+are therefore usually repaired and maintained by day laborers, who earn 8
+Sgr. per day.  This work can likewise be regarded as one of the main
+sources of income of the Einlieger (*resident lodgers without their own
+holding*).
 
-It is of very great advantage to the **Einlieger (*resident lodgers without
-their own holding*)** that in Schaumburg-Lippe the **Gemeinheiten (*common
-lands*)** have remained undivided up to now. Their livestock is driven onto
-them together with the others’ livestock in return for **Hirtenlohn
-(*herdsman’s fee*)**.
+It is of very great advantage to the Einlieger (*resident lodgers without
+their own holding*) that in Schaumburg-Lippe the Gemeinheiten (*common
+lands*) have remained undivided up to now. Their livestock is driven onto
+them together with the others’ livestock in return for Hirtenlohn
+(*herdsman’s fee*).
 
 Whereas in other regions there are frequent complaints about luxury in
 clothing even among the lower estates, especially that glittering finery is
 spreading very widely, Schaumburg-Lippe, like the neighboring region
-generally, deserves praise because the old “deftige” **Tracht (*sturdy
-traditional dress*)**, as people say in Westphalia, has been preserved
-here. This has had the most beneficial consequences for the landless
-population. As in few regions, this peasant **Tracht (*traditional
-dress*)** has resisted every fashion and every change, even the slightest,
-in cut and fabric. In its complete form — which even the poorest servant
-boy and the poorest maid strive to have — it is by no means cheap, but
-rather very expensive. Yet for that reason it is also extraordinarily
-durable, and every garment that takes dirt is washable.
+generally, deserves praise because the old “deftige” Tracht (*sturdy
+traditional dress*), as people say in Westphalia, has been preserved here.
+This has had the most beneficial consequences for the landless population.
+As in few regions, this peasant Tracht (*traditional dress*) has resisted
+every fashion and every change, even the slightest, in cut and fabric. In
+its complete form — which even the poorest servant boy and the poorest maid
+strive to have — it is by no means cheap, but rather very expensive. Yet
+for that reason it is also extraordinarily durable, and every garment that
+takes dirt is washable.
 
 If solidity is to be found anywhere, it is in this clothing. It is the same
 for summer and winter; only when it is cold are all the layers worn
@@ -1063,14 +1054,14 @@ red skirts worn for ordinary churchgoing are exchanged for black or brown
 ones at the celebration of the Lord’s Supper. A blue woolen coat with broad
 skirts and large covered buttons is the man’s clothing for churchgoing and
 for funerals. Usually the coat is acquired at marriage and then lasts for
-the whole of life. Lack of **Kirchzeug (*churchgoing clothes*)** is
+the whole of life. Lack of Kirchzeug (*churchgoing clothes*) is
 regarded as poverty.
 
-We hardly need add that the excellent, solid **Tracht (*traditional
-dress*)** of the peasant estate has a beneficial effect on its inner
-character and preserves the **Einlieger (*resident lodgers without their
-own holding*)** from many evils with which the **Heuerleute (*rural
-laborers in rented dwellings*)** in a large part of our Principality of
+We hardly need add that the excellent, solid Tracht (*traditional
+dress*) of the peasant estate has a beneficial effect on its inner
+character and preserves the Einlieger (*resident lodgers without their
+own holding*) from many evils with which the Heuerleute (*rural
+laborers in rented dwellings*) in a large part of our Principality of
 Osnabrück have to struggle. For here, especially in the north, the old
 national costume has already almost entirely disappeared, and with it
 native clothing materials have also been displaced. This has brought
