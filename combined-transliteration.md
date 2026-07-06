@@ -1,27 +1,10 @@
-# Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe `*)`, vom Pastor Georg Funke in Menslage bei Osnabrück.
+# Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe [^1], vom Pastor Georg Funke in Menslage bei Osnabrück.
 
 ## II. Lippe-Detmold
 
 Das Fürstentum Lippe-Detmold ernährt nach der Zählung von 1846 (Zeitschrift
 für deutsche Statistik 1847, S. 1059) auf 20,6 Quadratmeilen 106.046
 Einwohner.
-
-> **Original footnote marked `*)`**:\
-> In der Vorrede zu meiner Schrift: „Über die gegenwärtige Lage der
-> Heuerleute im Fürstentum Osnabrück mit besonderer Beziehung auf die
-> Ursachen ihres Verfalls und mit Hinblick auf die Mittel zu ihrer Erhebung.
-> Bielefeld 1847.“ hatte ich zu Mitteilungen über die Lage der besitzlosen
-> ländlichen Bevölkerung im nordwestlichen Deutschland aufgefordert, da ich
-> die Verhältnisse dieser in großer Not lebenden Volksklasse umfassender
-> darzustellen gedenke. Von manchen Seiten sind mir bereits solche
-> Mitteilungen zugegangen, wofür ich hier öffentlich meinen Dank
-> ausspreche; doch fehlen sie auch noch aus sehr vielen Gegenden. Ich
-> wiederhole daher nochmals meine früher ausgesprochene Bitte und bemerke
-> zugleich, dass solche Mitteilungen, für welche ich mich demnächst durch
-> Übersendung der beabsichtigten Schrift dankbar beweisen werde, auf
-> buchhändlerischem Wege durch die Herren Hahn in Hannover und Rackhorst in
-> Osnabrück sicher an mich gelangen. — Nachfolgender Artikel ist nach
-> eingegangenen Privatmitteilungen bearbeitet.
 
 Im Jahre 1834 betrug die Volkszahl 98.428 (97.720), und 1840 war sie auf
 104.462 gestiegen, so dass man als mittlere Durchschnittszunahme der
@@ -295,32 +278,7 @@ im Torfbaggern. Der Verdienst ist geringer, dagegen bleiben diese
 Torfbaggerer auch weniger lange von ihrer Heimat entfernt. In ungefähr drei
 Monaten verdienen sie jetzt 15–20, höchstens 25 Taler; sie ziehen im April
 fort und kehren gegen Ende Juni oder Juli wieder zurück. Ihre Arbeit jedoch
-ist saurer und ungesunder, da sie im Nassen geschehen muss.`*)`
-
-> **Original footnote marked `*)`**:\
-> Ref. hat den klassischen Boden des Fürstentums Lippe, auf welchem einst
-> Hermann den Varus schlug, und wo sich jetzt auf dem Gipfel des
-> Teutoburger-Waldgebirges das leider noch nicht vollendete Denkmal des
-> deutschen Helden erhebt, vielfach zu Fuß durchstreift. Bei einer solchen
-> Gelegenheit traf er auch einmal einen Einlieger, der ihm mitteilte, dass er
-> früher nach Friesland als Torfbaggerer gegangen sei. Er gab den Verdienst
-> auf circa 20 Taler an; mitunter habe er davon noch die Reisekosten abziehen
-> müssen, mitunter habe er auch noch mehr gehabt. Es kann dieser Arbeiter als
-> Beispiel dienen, mit wie wenigem Gelde die Reise von Lippe nach Friesland
-> gemacht wird. Derselbe teilte nämlich mit, dass er auf der Hinreise, wo er
-> einige Lebensmittel von Haus mit sich nähme, seinen vollen Taler gebraucht
-> habe, auf der Rückreise, wo diese gefehlt, jedoch nicht immer damit
-> ausgekommen sei. Es sei inzwischen unterwegs meistens auch nur Brot gegessen
-> worden; nur einmal, nämlich in Haselünne, wo sie stets ihr Quartier bei
-> einem Fleischer genommen hätten, sei warm zu Abend gegessen worden; die
-> Mahlzeit sei so gut gewesen, dass sie für eine Hochzeit nicht besser zu sein
-> brauche, sie hätten nämlich bekommen Suppe mit Rindfleisch und sodann
-> Sauerkraut mit Speck oder Schinken; mit Einschluss des Nachtquartiers auf
-> Heu und des am anderen Morgen genossenen Kaffees sei dafür im Ganzen 7 Mgr.
-> bezahlt worden, was zwar nicht zu viels sei, jedoch würde ihnen die Reise
-> zu teuer gekommen sein, wenn sie für jedes Nachtquartier eine solche
-> Ausgabe hätten machen wollen. — Man sieht, was sich diese Arbeiter
-> unterwegs abdarben.
+ist saurer und ungesunder, da sie im Nassen geschehen muss.[^2]
 
 Trotzdem, dass die ausländischen Ziegelarbeiten den Einliegern einen sehr
 bedeutenden Verdienst bringen, sollen sie, wie Grundbesitzer behaupten,
@@ -796,11 +754,11 @@ Verhältnisse bemerken wir noch, dass das neue seit 1841 eingeführte
 Gemeindegesetz nicht günstig auf die Stimmung der Einlieger zu wirken
 scheint. Sie sind durch dasselbe zwar materiell nicht benachteiligt; es ist
 vielmehr das sog. Einliegergeld von 1½ Taler auf ½ Taler herabgesetzt, und
-es wird noch dazu bei dessen Erhebung mit vieler Rücksicht verfahren`*)`;
+es wird noch dazu bei dessen Erhebung mit vieler Rücksicht verfahren[^3];
 auch werden von den sieben Contributions-Simplen je zu 5.500 Taler an die
 Amtsgemeindekassen zwei zum Kommunalwegbau und zur Armenversorgung
 verwiesen, wodurch ein regeres Leben in den Gemeinden hervorgerufen und
-Gelegenheit zum Verdienst gegeben ist`**);` nur scheint gerade die
+Gelegenheit zum Verdienst gegeben ist[^4] nur scheint gerade die
 Bestimmung, dass das Einliegergeld nebst dem einen Contributions-Simplum
 ebenfalls an die Amtsgemeindekasse verwiesen ist und zu öffentlichen
 Unterstützungen verwandt wird, unter denjenigen Einliegern, welche sich
@@ -814,15 +772,6 @@ daraus doch wenigstens die Stimmung der Leute hervor, und es muss
 eingestanden werden, dass namentlich an volkreichen Orten ein durchaus
 verkehrter Geist unter ihnen herrscht, sodass gar viele schon darauf
 pochen, dass sie unterhalten werden müssen.
-
-> **Original footnote marked `*)`**:\
-> `*)` Die indirekten Abgaben sind indessen durch den Anschluss an den
-> Zollverein auch für die Einlieger betroffen worden.
-
-> **Original footnote marked `**)`**:\
-> `**)` Vgl. Antze über
-> die Verfassung des Fürstentums Lippe in Bülau’s Jahrbücher für Geschichte
-> und Politik. 1844. Heft VII.
 
 Wären die Einlieger dem Dorfsgemeinde-Verband angemessen eingefügt und
 wären sie im Dorfsgemeinderat nach ihren Verhältnissen auch vertreten, so
@@ -870,7 +819,7 @@ als man je zu ersetzen imstande sein wird. Man wird also oft nur die Not
 vergrößern, wenn man sie zu lindern meint.
 
 Wie überall im nordwestlichen Deutschland, so haben auch im Lippischen in
-der letzten Zeit die Auswanderungen nach Amerika sehr überhand genommen`*)`;
+der letzten Zeit die Auswanderungen nach Amerika sehr überhand genommen[^5];
 doch hat sich trotz derselben die Bevölkerung noch immer vermehrt. Obwohl
 indes die Lust zur Auswanderung groß ist, so fehlt den Einliegern, zumal
 wenn sie Familie haben, dazu meistens das erforderliche Vermögen.
@@ -894,13 +843,6 @@ entsprechenden Verwertung kommen können. Wir glauben die Behauptung
 hinstellen zu dürfen, dass dieser Boden im Fürstentum Lippe fehlt und auch
 wenig Gelegenheit geboten wird, ihn durch innere Kolonisation, wie solches
 noch in anderen Ländern möglich ist, zu gewinnen.
-
-> **Original footnote marked `*)`**:\
-> `*)` Mehrere Grundbesitzer sind, wie es heißt, ausgewandert, weil das
-> Konsistorium statt des Heidelberger Katechismus den Gemeinden das wässerige
-> Lehrbuch eines früheren General-Superintendenten aufgezwungen hat. Vgl.
-> Janus von 1847. Bd. I. S. 757.
-
 
 ## II. Schaumburg-Lippe
 
@@ -1074,4 +1016,56 @@ Nivellierung, mit welcher Standessitte und Ehre verschwindet, zu bewahren.
 
 Georg Funke, "Ueber die Verhältnisse der Einlieger in Lippe-Detmold und Schaumburg-Lippe," Zeitschrift des Vereins für Deutsche Statistik 2 (Berlin: Schneider, 1848), 1104–1122; digital images, Münchener DigitalisierungsZentrum / Digitale Bibliothek, Bayerische Staatsbibliothek, Munich, <https://www.digitale-sammlungen.de/view/bsb10709532?page=1142%2C1143> : accessed 28 June 2026; catalog record, <https://mdz-nbn-resolving.de/details:bsb10709532>; BSB call no. BHS VI 32-2.
 
+
+[^1]: In der Vorrede zu meiner Schrift: „Über die gegenwärtige Lage der
+    Heuerleute im Fürstentum Osnabrück mit besonderer Beziehung auf die
+    Ursachen ihres Verfalls und mit Hinblick auf die Mittel zu ihrer Erhebung.
+    Bielefeld 1847.“ hatte ich zu Mitteilungen über die Lage der besitzlosen
+    ländlichen Bevölkerung im nordwestlichen Deutschland aufgefordert, da ich
+    die Verhältnisse dieser in großer Not lebenden Volksklasse umfassender
+    darzustellen gedenke. Von manchen Seiten sind mir bereits solche
+    Mitteilungen zugegangen, wofür ich hier öffentlich meinen Dank
+    ausspreche; doch fehlen sie auch noch aus sehr vielen Gegenden. Ich
+    wiederhole daher nochmals meine früher ausgesprochene Bitte und bemerke
+    zugleich, dass solche Mitteilungen, für welche ich mich demnächst durch
+    Übersendung der beabsichtigten Schrift dankbar beweisen werde, auf
+    buchhändlerischem Wege durch die Herren Hahn in Hannover und Rackhorst in
+    Osnabrück sicher an mich gelangen. — Nachfolgender Artikel ist nach
+    eingegangenen Privatmitteilungen bearbeitet.
+
+[^2]: Ref. hat den klassischen Boden des Fürstentums Lippe, auf welchem einst
+    Hermann den Varus schlug, und wo sich jetzt auf dem Gipfel des
+    Teutoburger-Waldgebirges das leider noch nicht vollendete Denkmal des
+    deutschen Helden erhebt, vielfach zu Fuß durchstreift. Bei einer solchen
+    Gelegenheit traf er auch einmal einen Einlieger, der ihm mitteilte, dass er
+    früher nach Friesland als Torfbaggerer gegangen sei. Er gab den Verdienst
+    auf circa 20 Taler an; mitunter habe er davon noch die Reisekosten abziehen
+    müssen, mitunter habe er auch noch mehr gehabt. Es kann dieser Arbeiter als
+    Beispiel dienen, mit wie wenigem Gelde die Reise von Lippe nach Friesland
+    gemacht wird. Derselbe teilte nämlich mit, dass er auf der Hinreise, wo er
+    einige Lebensmittel von Haus mit sich nähme, seinen vollen Taler gebraucht
+    habe, auf der Rückreise, wo diese gefehlt, jedoch nicht immer damit
+    ausgekommen sei. Es sei inzwischen unterwegs meistens auch nur Brot gegessen
+    worden; nur einmal, nämlich in Haselünne, wo sie stets ihr Quartier bei
+    einem Fleischer genommen hätten, sei warm zu Abend gegessen worden; die
+    Mahlzeit sei so gut gewesen, dass sie für eine Hochzeit nicht besser zu sein
+    brauche, sie hätten nämlich bekommen Suppe mit Rindfleisch und sodann
+    Sauerkraut mit Speck oder Schinken; mit Einschluss des Nachtquartiers auf
+    Heu und des am anderen Morgen genossenen Kaffees sei dafür im Ganzen 7 Mgr.
+    bezahlt worden, was zwar nicht zu viels sei, jedoch würde ihnen die Reise
+    zu teuer gekommen sein, wenn sie für jedes Nachtquartier eine solche
+    Ausgabe hätten machen wollen. — Man sieht, was sich diese Arbeiter
+    unterwegs abdarben.
+
+[^3]: Die indirekten Abgaben sind indessen durch den Anschluss an den
+    Zollverein auch für die Einlieger betroffen worden.
+
+[^4]: Vgl. Antze über
+    die Verfassung des Fürstentums Lippe in Bülau’s Jahrbücher für Geschichte
+    und Politik. 1844. Heft VII.
+
+[^5]: Mehrere Grundbesitzer sind, wie es heißt, ausgewandert, weil das
+    Konsistorium statt des Heidelberger Katechismus den Gemeinden das wässerige
+    Lehrbuch eines früheren General-Superintendenten aufgezwungen hat. Vgl.
+    Janus von 1847. Bd. I. S. 757.
 
