@@ -28,389 +28,354 @@ vote in municipal affairs.
 
 ### 1. Origin of the Einlieger
 
-The landless rural population in the Principality of Lippe has increased
-since the end of the previous century to such a degree that, as is also the
-case in the Principality of Osnabrück, it exceeds the landowning population
-on average by twice its number. Just as among us these landless rural
-inhabitants are called Heuerleute or Heuerlinge (*tenant laborers*), from
-*heuern*, that is, to rent for a year — *heuer*, “of this year” — so in
-Lippe they are called Einlieger, because they “lie in” with others, that
-is, live in another person’s household or dwelling. These Einlieger, to
-whom at present about two-thirds of the entire rural population belong,
-were found in the Principality of Lippe only in very small numbers until
-the middle of the previous century, and in some districts probably not at
-all.
+Since the end of the last century, the landless rural population of Lippe
+has grown so rapidly that, as in the Principality of Osnabrück, it is now
+roughly twice as large as the landowning population. In Osnabrück these
+landless rural inhabitants are called *Heuerleute* or *Heuerlinge*—people
+who rent by the year. In Lippe they are called *Einlieger*, because they
+“lodge in” another person’s house or household. Today they make up about
+two-thirds of Lippe’s rural population. Before the middle of the last
+century, however, they existed in the principality only in very small
+numbers, and in some districts probably not at all.
 
-Until then, the younger sons of farm owners who found no opportunity to
-marry onto other farms or to enter into other circumstances either settled
-on a still uncultivated site in a village, or built for themselves on the
-Gemeinheiten (*common lands*) belonging to the village, also called heaths.
-In this way many small landowners arose; indeed, when the common lands were
-gradually cultivated, small settlements even formed, which were then
-usually named after the villages or estates from which the colonization
-proceeded, such as Hölser-, Herser-, and Wülferheide, and so on.
+Until that time, younger sons of farm owners who could neither marry into
+another farm nor find some other settled position usually did one of two
+things: they either settled on an uncultivated site within a village, or
+they built a house on the village common land, also known as heathland. In
+this way many small landholders came into being. As the common lands were
+gradually brought under cultivation, small settlements even developed,
+usually named after the village or estate from which the settlement had
+begun, such as Hölserheide, Herserheide, Wülferheide, and the like.
 
-In general, the tendency in Lippe is to live together in villages and not
-in Bauerschaften (*dispersed rural farming communities*), as is more the
-case in Westphalia proper, where the farms are then separated from one
-another by greater or lesser distances. Meanwhile, the villages of Lippe
-are not closed in the way they are already found where the Engern and
-Eastphalian pattern, in contrast to the Westphalian, appears in a wholly
-pure form.
+In Lippe, people generally tended to live together in villages rather than
+in dispersed rural farm communities, as was more common in Westphalia
+proper, where farms often lay at greater or lesser distances from one
+another. Even so, Lippe’s villages were not as compact as those found
+farther east, where the Engern and Eastphalian settlement pattern appears
+in a purer form.
 
-The small landowners who arose later — Neubauer, Neuwohner, or, as the
-popular language calls them, Hoppenplöcker (*small newly settled
-landholders*) — possessed before the division of the Gemeinheiten, with few
-exceptions, almost no lands at all apart from a little garden land, which
-was probably allotted to them at once when they received permission to
+The later small landholders — called *Neubauer*, *Neuwohner*, or, in
+popular speech, *Hoppenplöcker* — possessed, before the division of the
+common lands, almost no land of their own, apart from a small garden plot.
+That plot was probably assigned to them when they received permission to
 build and settle.
 
-At first they supported themselves by day labor on the farms, where they
-also hired out their children as servants. As their numbers increased
-further, the work they found within the country no longer sufficed for
-their maintenance; they therefore sought work abroad and turned, like their
-neighbors in Westphalia proper, toward Holland, West Friesland, Groningen,
-and the adjoining regions. It is well known that in those times, when trade
-in the United Netherlands was significant, manual labor there brought rich
-profit, because labor was lacking. As soon as the sons had grown up, they
-followed their fathers.
+At first these small landholders supported themselves by working as day
+laborers on the farms. Their children, too, hired themselves out as
+servants. As their numbers grew, however, the work available within Lippe
+was no longer enough to support them. They therefore sought employment
+abroad, like their neighbors in Westphalia proper, going to Holland, West
+Friesland, Groningen, and the adjoining regions. At that time, when
+commerce in the United Netherlands was flourishing and labor was scarce,
+manual labor there could be highly profitable. As soon as sons were old
+enough, they followed their fathers.
 
-Through this temporary emigration of the working population during the
-summer, a shortage of laborers arose in their homeland, especially in the
-season when outside help was particularly needed on the farms. Just as
-among us in Osnabrück, the farm owners frequently complained about this and
-also appealed to the territorial government to place limits on this
-temporary emigration.
+This seasonal migration of the working population created a labor shortage
+at home during the summer, precisely when the farms most needed extra
+hands. As in Osnabrück, farm owners in Lippe often complained about this
+and appealed to the territorial government to restrict the migration.
 
-Möser says in relation to this that the landowners believed the state
-existed for their sake. What wonder, then, that they thought the state
-ought to provide them with laborers willing to serve for low wages by
-prohibiting the practice of going to Holland. Incidentally, just as in
-Osnabrück, so also in Lippe, the territorial government did not reject the
-complaints raised on this account, but recognized them as justified. With
-respect to Lippe, we admittedly know of no specific ordinance to cite; yet
-we have been told that such ordinances were issued, though without success.
+Möser observed in this connection that the landowners seemed to think the
+state existed for their benefit. It is hardly surprising, then, that they
+expected the state to supply them with cheap labor by forbidding people to
+go to Holland. In Lippe, as in Osnabrück, the territorial government did
+not dismiss these complaints, but treated them as justified. We cannot cite
+a specific Lippe ordinance on the matter, but we have been told that such
+ordinances were issued, though without success.
 
-It will not have been otherwise here than in our former prince-bishopric.
-Bishop Philipp Sigismund already expressed himself to the estates in 1608
-to the effect that complaints had been received about servants and
-laborers: that no one desired to serve, by which the hereditary peasants
-and the burghers were placed in difficulty; rather, unmarried people moved
-away at their own pleasure to Friesland and elsewhere outside the
-territory, where they could earn more in a shorter time, only later to
-return again at their own pleasure; furthermore, the pay of laborers was
-excessive, and so forth. For that reason, it should be carefully considered
-whether a police ordinance ought not to be issued for such cases.
+The situation was probably much the same as in our former prince-bishopric.
+As early as 1608, Bishop Philipp Sigismund reported to the estates that
+complaints had been made about servants and laborers: no one wanted to
+serve; hereditary peasants and burghers were being put in difficulty;
+unmarried people were leaving at will for Friesland and other places
+outside the territory, where they could earn more in less time, and then
+returning whenever they pleased; wages, moreover, had become excessive. For
+these reasons, he said, consideration should be given to whether a police
+ordinance ought to be issued.
 
-Although we are of the opinion that in earlier times there were still many
-sources of livelihood available in the land itself, it was nevertheless
-mistaken to try to restrict earnings abroad through police measures merely
-so that the settled inhabitants might obtain cheap day laborers and
-servants. It was entirely natural that these measures bore no fruit.
+In our view, although earlier times still offered many sources of
+livelihood within the country itself, it was nevertheless mistaken to
+restrict earnings abroad by police measures merely so that settled
+inhabitants could obtain cheap day laborers and servants. It was entirely
+natural that such measures failed.
 
-The consequence of this temporary emigration in Lippe was the emergence of
-the so-called Einlieger. In order to obtain workers, the farm owners, as
-the population increased, gradually began to take married persons into
-their dwellings on a rental basis — to let them “lie in” with them — under
-the condition that, when required, they would work for a fixed day wage.
-Separate dwellings for the Einlieger did not exist at first. The
-Leibzuchtshäuser (*retirement houses or dower houses on farms, often
-reserved for the older generation*) that happened to stand empty were used
-at first. Later, however, special houses, usually arranged for two
-families, had to be built. They are now found on almost all Kolonate
-(*hereditary farm holdings*).
+In Lippe, this seasonal migration helped give rise to the so-called
+*Einlieger*. As the population increased, farm owners who needed workers
+gradually began renting space in their own dwellings to married couples.
+These people were allowed to “lodge in” with them on the condition that,
+when needed, they would work for a fixed day wage. At first there were no
+separate dwellings for the *Einlieger*. Empty *Leibzuchtshäuser* —
+retirement or dower houses on farms, often reserved for the older
+generation — were used for this purpose. Later, however, special houses had
+to be built, usually arranged for two families. Such houses are now found
+on almost all hereditary farm holdings.
 
-The extent to which this landless population of Einlieger has increased in
-more recent times in Lippe may be shown by the following example. A farm
-owner tells me that in the year 1772, in one village, when his grandfather
-married onto the farm now possessed by him, only five or six Einlieger were
-found there; by contrast, in the year 1846, when he drew up the Einlieger
-list, their number had risen to 110. The number of landowners, by
-comparison, was relatively small. Among 39 there were only ten larger
-Kolonen (*hereditary farmholders*) who kept four or more horses, as well as
-ten others, each of whom cultivated 20 to 60 Lippe Scheffelsaat (*a local
-area measure based on seed sown*) partly with cows; the rest were small
-proprietors, Hoppenplöcker, who possessed no plots beyond the shares of
-common land that had fallen to them, or even only their small gardens. In
-addition, there was also a noble estate there.
+One example shows how greatly the landless *Einlieger* population has grown
+in Lippe in recent times. A farm owner told me that in 1772, when his
+grandfather married into the farm he now owns, one village had only five or
+six *Einlieger*. By 1846, when he drew up the *Einlieger* list, their
+number had risen to 110. The number of landowners, by contrast, was small.
+Of thirty-nine landowners, only ten were larger hereditary farmholders who
+kept four or more horses. Another ten cultivated between 20 and 60 Lippe
+*Scheffelsaat*, partly with cows. The rest were small proprietors, the
+*Hoppenplöcker*, who possessed no land beyond the shares of common land
+that had fallen to them, or even only their small gardens. There was also a
+noble estate in the village.
 
-The division of the Gemeinheiten must be regarded as one consequence of the
-increase of the Einlieger. The Einlieger drove their livestock without
-further ado onto the common pastures, so that these, especially since Lippe
-as a whole has only little pastureland, were overburdened by livestock and
-brought in little as Hude (*common grazing land or grazing right*). Not
-without reason, the small landowners complained that the larger ones, with
-their own livestock and the additional livestock of their Einlieger, made
-disproportionately heavy use of the common land. These constant complaints
-became the occasion for dividing the Gemeinheiten almost everywhere,
-gradually, in order to be rid of them.
+The division of the common lands must be seen as one consequence of the
+growth of the *Einlieger* class. The *Einlieger* drove their livestock onto
+the common pastures without further restriction. Since Lippe as a whole had
+little pastureland, these commons became overstocked and yielded little as
+grazing land. The smaller landowners had reason to complain that the larger
+landowners, with both their own livestock and that of their *Einlieger*,
+were making disproportionate use of the commons. These repeated complaints
+gradually led to the division of common lands almost everywhere.
 
-Given the dense population of the land and the slight benefit that the
-Gemeinheiten generally produced in this poorly watered region, the division
-may have been useful insofar as new terrain for cultivation was thereby
-gained, even if the condition of the Einlieger was not improved by it. We
-are admittedly not in favor of unconditional division of common land, as
-has mostly taken place in the Principality of Osnabrück without any need
-for it. Rather, we believe that a limited division, corresponding to the
-increased population, would have brought greater advantages. Nevertheless,
-we readily acknowledge that in Lippe, where such large Gemeinheiten as are
-found here among us did not exist at all, the circumstances were
-essentially different. Since the terrain in Lippe is in general not very
-suitable for pasture, the divided Gemeinheiten, if cultivated, will
-certainly yield on average twice as much as before. Some places, to be
-sure, will remain that either resist cultivation entirely or yield only if
-already existing productive forces can be directed into them in order to
-awaken new ones.
+Given Lippe’s dense population and the limited value of the commons in this
+poorly watered region, division may have been useful insofar as it brought
+new land under cultivation, even though it did not improve the condition of
+the *Einlieger*. We are not, to be sure, in favor of the unconditional
+division of common land, as has mostly occurred in the Principality of
+Osnabrück without real necessity. A limited division, proportionate to the
+increased population, would in our view have been more beneficial. Still,
+we readily acknowledge that conditions in Lippe were essentially different,
+since Lippe had no commons as extensive as those found among us. Because
+Lippe’s terrain is generally not well suited to pasture, the divided
+commons, once cultivated, will probably yield on average twice as much as
+before. Some places, however, will remain either wholly resistant to
+cultivation or capable of yielding only if existing productive forces can
+be directed into them to awaken new ones.
 
 ### 2. The Sources of Livelihood of the Einlieger
 
-The manual-laboring classes in the Principality of Lippe, which include not
-only the Einlieger (*resident landless tenants/lodgers*) but also the small
-landowners who live under the same conditions, support themselves chiefly
-through the linen industry and, secondarily, through brickmaking work
-abroad.
+The working classes in the Principality of Lippe include not only the
+*Einlieger* — landless lodgers or tenant laborers — but also small
+landholders who live under much the same conditions. They support
+themselves chiefly through the linen industry and, secondarily, through
+seasonal brickmaking work abroad.
 
-**a.** In the work already cited, *On the Condition of the Heuerleute*
-(*tenant laborers*), etc., we discussed the decline of the linen industry
-in general. What we said there also applies to Lippe. At present, even with
-the greatest diligence, a manual-laboring family can no longer earn its
-livelihood solely through domestic industry in flax or hemp, given the
-spread of machine spinning and machine weaving. Spinning and weaving must
-now be regarded only as supplementary work.
+**a.** In the work already cited, *On the Condition of the Heuerleute*, we
+discussed the general decline of the linen industry. The same observations
+apply to Lippe. Today, with the spread of machine spinning and machine
+weaving, even the most industrious working family can no longer support
+itself solely through domestic flax or hemp work. Spinning and weaving must
+now be regarded only as supplementary occupations.
 
-On the whole, however, the linen industry in Lippe was also less important
-in earlier times than in Ravensberg, Minden, Osnabrück, and similar
-regions. For that reason, the decline of the German linen trade has not had
-such thoroughly harmful consequences there as in those regions, where the
-landless population was often entirely dependent on income from spinning
-and weaving, and where, under changed conditions, no work replacing this
-domestic industry has yet been found, nor probably will be found.
+The linen industry in Lippe, however, was never as important as it was in
+Ravensberg, Minden, Osnabrück, and similar regions. For that reason, the
+decline of the German linen trade has not harmed Lippe as severely as it
+has harmed places where the landless population was often wholly dependent
+on spinning and weaving, and where no replacement for this domestic
+industry has yet been found — nor is one likely to be found.
 
-As is well known, England has excluded us almost everywhere from the linen
-trade, so that in the end only Cuba remained as an outlet for our products;
-and England has meanwhile already forced its way into that market as well.
-At the same time, with the ever-expanding production of cotton in America,
-cotton fabrics have partly displaced linen fabrics even in the West Indies.
+England, as is well known, has shut us out of the linen trade almost
+everywhere. In the end, Cuba remained almost the only market for our
+products, and England has now pushed into that market as well. At the same
+time, the expanding production of cotton in America has caused cotton
+fabrics to displace linen fabrics in part, even in the West Indies.
 
-This, however, can only be the case to a certain degree, since for tropical
-countries there is no more suitable clothing than linen, which is both very
-durable and cooling. It is therefore certainly to be expected that, despite
-the machines, a more favorable time will come for the domestic linen
-industry once the political conditions of tropical America have become more
-settled, and if we do not fail to establish favorable direct trade
-relations with it.
+This displacement, however, can go only so far. For tropical countries
+there is no more suitable clothing material than linen, which is both
+durable and cooling. We may therefore expect that, despite the machines,
+better times will return for the domestic linen industry once political
+conditions in tropical America become more settled, provided that we do not
+neglect the opportunity to establish favorable direct trade relations
+there.
 
-On the one hand, hand-spun linen, because of its greater strength and
-durability and its other advantages, will then hold its own alongside
-machine-made linen. On the other hand, the industry of the landless
-population will turn toward more careful preparation of flax for the
-machines.
+Hand-spun linen, because of its greater strength, durability, and other
+advantages, will then be able to hold its own beside machine-made linen. At
+the same time, the work of the landless population will turn more toward
+the careful preparation of flax for machine processing.
 
-According to information from a Kolon (*hereditary farmholder*), in Lippe
-about twenty to thirty years ago twelve pieces of so-called Kaufgarn (*yarn
-spun for sale*) were supplied for one Taler; today fifteen to eighteen
-pieces are given for one Taler. It has been claimed that the difference in
-earnings cannot be quite so great, since spinning is now generally done
-with two hands, which was formerly not the case.
+According to information from a *Kolon*, or hereditary farmholder, twelve
+pieces of so-called *Kaufgarn* — yarn spun for sale — were supplied in
+Lippe for one Taler about twenty to thirty years ago. Today, fifteen to
+eighteen pieces must be supplied for the same amount. Some have claimed
+that the difference in earnings cannot be quite so great, since spinning is
+now generally done with both hands, which was formerly not the case.
 
-It must be noted, however, that although today perhaps four pieces of yarn
-are spun with two hands instead of the former two or two and a half pieces,
-this yarn is of poorer quality, and at times one has even had to supply
-thirty-six pieces for one Taler. Moreover, spinning with two hands
-naturally requires twice as much flax. If this flax is bought, one receives
-seven pounds uncleaned for one Taler, of which about four to five pounds
-remain after cleaning; from that amount the spinner can, with the greatest
-difficulty, spin only thirty-six pieces. Thus the work would have to be
-done entirely for nothing if only one Taler is paid for thirty-six pieces.
+But this objection overlooks several points. Even if a spinner today can
+produce perhaps four pieces of yarn with both hands, instead of the former
+two or two and a half pieces, the yarn is poorer in quality. At times,
+spinners have even had to supply thirty-six pieces for one Taler. Moreover,
+spinning with both hands naturally requires twice as much flax. If the flax
+has to be bought, one Taler buys seven pounds uncleaned, of which only
+about four or five pounds remain after cleaning. From that amount, the
+spinner can produce thirty-six pieces only with the greatest difficulty. If
+only one Taler is paid for those thirty-six pieces, the labor itself has
+effectively earned nothing.
 
-Meanwhile, even when yarn prices are higher, the earnings are so low that a
-family dependent on spinning absolutely cannot survive. Usually the flax is
-not bought, but is grown by the Einlieger and small landowners themselves.
-In that case, however, they must rent land suitable for flax cultivation,
-buy the flaxseed, and use their labor to prepare the flax at a time when
-manual labor is well paid.
+Even when yarn prices are higher, the earnings remain so low that a family
+dependent on spinning cannot survive. Usually the flax is not bought but
+grown by the *Einlieger* and small landholders themselves. Even then,
+however, they must rent land suitable for flax, buy the seed, and spend
+their labor preparing the crop at a time when manual labor would otherwise
+command good wages.
 
-There is, of course, still some profit when the flax is grown by the family
-itself, since their own labor is valued less highly than it would otherwise
-be paid. Yet there are also many districts where flax does not thrive
-especially well, or does not thrive at all, so that the only option is to
-buy it raw, if one wishes to occupy oneself with spinning at all in spare
-hours.
+Some profit remains, of course, when the family grows the flax itself,
+because its own labor is counted at less than it would earn elsewhere. But
+in many districts flax grows poorly, or not at all. There the only option,
+if one wishes to spin in spare hours, is to buy the flax raw.
 
-Not infrequently, the larger landowners grow flax on their fields for their
-Einlieger at a low price. Servants of the larger landowners likewise
-receive some flax grown for them. With respect to the processing of flax,
-much still remains to be desired; in recent times, however, more care has
-been devoted to spinning. If, however, spinning is done with two hands,
-only very ordinary yarn can be produced.
+Larger landowners quite often grow flax on their own fields for their
+*Einlieger* at a low price. Servants of the larger landowners likewise
+receive some flax grown for them. Much still remains to be desired in the
+processing of flax, although in recent times greater care has been given to
+spinning. Still, when spinning is done with both hands, only very ordinary
+yarn can be produced.
 
-**b.** A very distinctive source of livelihood for Lippe’s manual-laboring
-class is brickmaking work abroad, or the so-called Hollandsgehen (*seasonal
-labor migration to the Netherlands*). Just as here in northern Osnabrück
-the peat diggers who go to Holstein, Schleswig, Brandenburg, East and West
-Prussia, and Posen are called Dänemarksgänger (*seasonal migrant peat
-workers*), because they originally went first to Holstein and Schleswig, so
-in Lippe all brickworkers abroad are called Hollandsgänger (*seasonal
-migrant brickworkers in the Netherlands*) or Friesländer (*seasonal migrant
-laborers in Friesland*), because they first went to Holland and Friesland,
-although a very large number of them now migrate temporarily in precisely
-the opposite direction.
+**b.** A second important source of income for Lippe’s working class was
+seasonal brickmaking abroad, the so-called *Hollandsgehen*. In northern
+Osnabrück, peat diggers who go to Holstein, Schleswig, Brandenburg, East
+and West Prussia, and Posen are called *Dänemarksgänger*, because they
+originally went first to Holstein and Schleswig. In the same way, Lippe
+brickworkers abroad are called *Hollandsgänger* or *Friesländer*, because
+they first went to Holland and Friesland, even though many now migrate in
+quite different directions.
 
 People from Lippe also go to West Friesland and Groningen as peat diggers,
-and more rarely as manual laborers of other kinds, for example as grass
-mowers, gardeners, masons, carpenters, glue boilers, and so forth, as is
-the case in the Principality of Osnabrück.
+and more rarely for other kinds of manual labor — as grass mowers,
+gardeners, masons, carpenters, glue boilers, and the like — as also happens
+in the Principality of Osnabrück.
 
-Brickmaking work has been carried on since ancient times by the lower
-classes in the Principality of Lippe; for about twenty-five years it has
-passed more from the small landowners to the Einlieger (*resident landless
-tenants/lodgers*). As a result of the divisions of the Gemeinheiten
-(*common lands*), the former received parcels that, although not especially
-large, were often quite suitable for cultivation and were now cultivated by
-them. This internal colonization kept only the small landowners at home,
-since agriculture, which had formerly been a secondary occupation, now
-became their main occupation.
+Brickmaking has long been practiced by the lower classes in Lippe. During
+the last twenty-five years, however, it has passed increasingly from the
+small landholders to the *Einlieger*. This shift was connected with the
+division of the common lands. The small landholders received parcels of
+land which, though not especially large, were often suitable for
+cultivation. They then began to cultivate these parcels themselves.
+Agriculture, formerly only a secondary occupation for them, became their
+principal work, and this kept them at home.
 
-Since brickmaking work has passed more to the Einlieger, it has gained
-still further in extent. It is now at home in Lippe, and skill in it seems
-to be passed down from one generation to the next. For this reason, this
-work in foreign brickyards may well be regarded as secured for the future.
-On the whole, it brings about 400,000 Taler into the country each year.
-Even if earnings are sometimes weak in some regions, the Botenmeister or
-Ziegelboten (*official labor agents or brickworkers’ messengers*) appointed
-by the government always know how to find new opportunities again.
+Once brickmaking passed more fully into the hands of the *Einlieger*, it
+expanded still further. It has now become established in Lippe, and skill
+in the trade seems to pass from one generation to the next. For that
+reason, work in foreign brickyards may be regarded as a secure source of
+income for the future. Altogether, it brings about 400,000 Taler into the
+country each year. Even when earnings decline in one region, the
+government-appointed *Botenmeister* or *Ziegelboten* — labor agents for the
+brickworkers — usually know how to find new opportunities elsewhere.
 
-Two Botenmeister are appointed for Friesland and Holland; there they
-conclude the contracts and in Lippe they engage the workers. In this way
-every brickworker is secure with respect to his earnings; for if the
-contracts are not fulfilled, he can have recourse against the Botenmeister,
-who is obliged to represent him before the authorities. The Botenmeister
-make their journeys to Friesland, that is, West Friesland and Groningen,
-and to Holland twice a year: once to conclude the contracts, and then again
-during the work in order to supervise the fulfillment of the contracts.
+Two such agents are appointed for Friesland and Holland. They conclude the
+contracts there and then recruit the workers in Lippe. This arrangement
+gives each brickworker some security in his earnings. If the contracts are
+not fulfilled, he can seek recourse from the *Botenmeister*, who is obliged
+to represent him before the authorities. These agents travel to Friesland —
+that is, West Friesland and Groningen — and to Holland twice a year: first
+to conclude the contracts, and later during the work season to supervise
+their fulfillment.
 
-An adult brickworker earns, depending on whether circumstances are more or
-less favorable, 40 to 60 Taler in clear money during the six months of his
-absence. Individual masters not infrequently bring back more than 100, and
-sometimes even 200 Taler. In dry summers, when the clay from which the
-bricks are made dries quickly and can therefore be fired more often,
-earnings are greatest.
+An adult brickworker earns, according to circumstances, between 40 and 60
+Taler in clear money during the six months he is away. Individual masters
+often bring back more than 100 Taler, and sometimes even 200. Earnings are
+highest in dry summers, when the clay dries quickly and bricks can be fired
+more often.
 
-Of lesser importance is the other manual labor performed by the Lippe
-Einlieger in “Friesland”; it consists chiefly of peat digging. The earnings
-are smaller, but these peat diggers also remain away from their homeland
-for a shorter time. In about three months they now earn 15 to 20, at most
-25 Taler; they leave in April and return toward the end of June or in July.
-Their work, however, is harder and less healthy, since it must be done in
-wet conditions.[^2]
+Other kinds of manual labor performed by Lippe *Einlieger* in “Friesland”
+are less important. This work consists chiefly of peat digging. The
+earnings are smaller, but the peat diggers are also away from home for a
+shorter time. In about three months they now earn 15 to 20 Taler, at most
+25\. They leave in April and return toward the end of June or in July. Their
+work, however, is harder and less healthy, since it must be done in wet
+conditions[^2].
 
-Although foreign brickmaking work brings the Einlieger very considerable
-earnings, it is said, as landowners claim, to have had little beneficial
-effect on the condition of the Einlieger. Those who occupy themselves with
-it do nothing else besides; they are to be regarded as factory workers who
-rest from their labor in winter and then cannot otherwise be employed in
-the country. The young fellows are also left too much to themselves in this
-brickmaking work. They usually spend again in winter what they earned in
-summer, without thinking that they must lay something aside for later years
-— especially in their younger years.
+Although foreign brickmaking brings the *Einlieger* considerable earnings,
+landowners claim that it has done little to improve their condition. Those
+who engage in it usually do nothing else. They resemble factory workers: in
+winter they rest from their labor and cannot easily be employed at home.
+The young men are also left too much to themselves during the brickmaking
+season. They usually spend in winter what they earned in summer, without
+thinking of saving anything for later years, especially while they are
+still young.
 
-For that reason, in the long run those who serve among the Kolonen
-(*hereditary farmholders*) are better off, even though there they receive
-only 20 to 30 Taler in wages each year. Moreover, the more varied economic
-labors — indeed, the intimate connection in which agriculture stands with
-ever-changing nature — do not dull the mind. Rather, because man does not
-work alone, but prosperity must come from above, the direct relation of the
-heart to God is preserved. This cannot be said of brickmaking work carried
-on in a factory-like manner. In that work the principle of division of
-labor prevails throughout, and on this its relatively large earnings are
-based.
+For that reason, those who serve among the hereditary farmholders are
+better off in the long run, even though they receive only 20 to 30 Taler in
+annual wages. Farm work is more varied, and its close connection with
+ever-changing nature does not dull the mind. Because the farmer does not
+work alone, but must look upward for prosperity, his direct relation of
+heart to God is preserved. The same cannot be said of brickmaking, which is
+carried on in a factory-like manner. There the principle of division of
+labor prevails throughout, and its relatively high earnings rest on that
+basis.
 
-Meanwhile, if a man has to do the same thing constantly for six months, he
-must become mentally dulled. It is therefore a wholly natural phenomenon
-that, like factory workers in general, the so-called Friesländer
-(*Friesland-goers, seasonal migrant workers*) also generally appear morally
-far less steady than the young fellows who remain behind as servants on the
-farms.
+If a man does the same task constantly for six months, he is bound to
+become mentally dulled. It is therefore natural that the so-called
+*Friesländer*, like factory workers in general, often appear morally less
+steady than the young men who remain behind as servants on the farms.
 
-Brickmaking work abroad has a very special attraction for the lower class,
-so that some years ago, after the Hamburg fire, when it reached its
-greatest extent, all the young fellows from the Einlieger class migrated
-out. The consequence was that the Lippe farm owners for the most part had
-to draw their servants from neighboring Prussian Westphalia — from where
-this brickmaking work is not carried on — and still have to do so.
+Foreign brickmaking has a powerful attraction for the lower class. Some
+years ago, after the Hamburg fire, when the trade reached its greatest
+extent, virtually all the young men from the *Einlieger* class left for
+this work. As a result, Lippe’s farm-holding owners had to hire many of
+their servants from neighboring Prussian Westphalia, where this brickmaking
+migration was not practiced. They still have to do so.
 
-This too has contributed to the increase of the landless class. The foreign
-servants working in Lippe form relationships there with the girls and then,
-provided the girls are not left entirely sitting with their children —
-which only contributes to the increase of poverty, apart from other harmful
-consequences in moral respects — settle there in the event of marriage. The
-landowners generally prefer to take them into their dwellings as Einlieger
-rather than the so-called Friesländer, who understand little of rural work
-and are absent in the summer, so that no labor assistance can be expected
-from them.
+This too has contributed to the growth of the landless class. Foreign
+servants working in Lippe form relationships with local girls and, if
+marriage follows, settle there — unless the girls are simply left with
+their children, which only increases poverty and brings further moral harm.
+Landowners generally prefer to take these foreign servants into their
+dwellings as *Einlieger*, rather than the so-called *Friesländer*, who
+understand little of farm work and are absent in summer, when no labor help
+can be expected from them.
 
-For that reason, when the Friesländer wish to marry, they seek above all to
-obtain a dwelling among the small landowners, because there they do not
-have to enter into any obligation to perform labor services and can
-therefore continue their periodic migration. If such a householder can
-spare even some corner, people try to induce him to have it arranged as a
-separate dwelling.
+For that reason, when the *Friesländer* wish to marry, they usually try to
+find housing among the small landholders. There they do not have to
+undertake labor obligations and can continue their seasonal migration. If
+such a householder can spare even a corner, people try to persuade him to
+turn it into a separate dwelling.
 
-As long as such a married couple has no children, or only a few, they make
-do, if necessary, with the cramped dwelling, especially since the man is
-absent for the greater part of the year. But when several children are
-added and these grow up, the family can scarcely endure such a cramped
-dwelling, especially in winter, when the grown sons, who go abroad with
-their father immediately after confirmation, have returned home with him.
-Parents and children, sons and daughters, small and great — all must sleep
-in one room, which must have a harmful effect not only on bodily health but
-also on morality.
+As long as such a married couple has no children, or only a few, they
+manage somehow in the cramped quarters, especially since the husband is
+absent for much of the year. But when several children are born and grow
+up, the family can scarcely endure such a dwelling, especially in winter,
+when the grown sons return home with their father after working abroad from
+the time of their confirmation. Parents and children, sons and daughters,
+young and old, must all sleep in one room. This cannot fail to harm both
+bodily health and morals.
 
-At the same time, these brickworkers are usually richly blessed with
-children. Under such circumstances, the young people cannot be blamed if
-they seek as soon as possible to obtain a dwelling of their own, even if it
-is worse than that of their parents, in order to marry and begin a
-household of their own.
+These brickworkers are usually blessed with many children. Under such
+circumstances, one can hardly blame young people for trying as soon as
+possible to obtain a dwelling of their own, even if it is worse than their
+parents’ dwelling, so that they may marry and begin their own household.
 
-In this way the Lippe Einlieger class has increased in a manner not
-appropriate to the size of the country and its level of cultivation, so
-that the land, as a result of this increase of the landless population, has
-lost much in prosperity. For despite the considerable earnings abroad, the
-sources of income are still not sufficient for the maintenance of the lower
-classes. We may call the land overpopulated; for the number of landless
-inhabitants has increased in an abnormal way in relation to the number of
-the propertied, so that the two stand in disproportion to one another. But
-foreign brickmaking work must be regarded as the cause of this
-overpopulation, as may also be seen from our account.
+In this way, the *Einlieger* class in Lippe has grown beyond what the size
+and cultivation of the country can support. As a result, the land has lost
+much of its prosperity. Despite the considerable earnings from work abroad,
+the available sources of income are still not sufficient to maintain the
+lower classes. The country may therefore be called overpopulated. The
+number of landless inhabitants has increased abnormally in relation to the
+number of the propertied, so that the two now stand in serious
+disproportion. As our account shows, foreign brickmaking must be regarded
+as the cause of this overpopulation.
 
-Initially carried on by the small landowners, who found insufficient
-sources of income at home, brickmaking work passed after the divisions of
-the common lands to the Einlieger, since the former now occupied themselves
-with agriculture. Once the Einlieger had brought the brickmaking work into
-their own hands, they multiplied all the more quickly, since now, through
-the small landowners, they also gained the opportunity to obtain dwellings
-that the farm owners could not always give them if they migrated
-temporarily, because the farm owners needed for their economic work such
-Einlieger as remained in the country.
+At first, brickmaking was carried on by small landholders who found too few
+sources of income at home. After the common lands were divided, however,
+these small landholders turned increasingly to agriculture, and brickmaking
+passed to the *Einlieger*. Once the *Einlieger* had taken over this work,
+their numbers grew all the more quickly. Through the small landholders,
+they could obtain dwellings that the larger farm-holding owners could not
+always provide, especially when the *Einlieger* migrated seasonally, since
+those larger holders needed workers who remained in the country.
 
-The final consequence was then that, although the country is already to be
-called overpopulated in itself, nevertheless, because brickmaking work
-abroad has gained ever greater extent, the farm owners had to hire foreign
-servants, who then even settled in this overpopulated land. We hardly need
-add that the increase of the population cannot now rise much further, when
-5,148 inhabitants already fall to the square mile, and that the relation of
-the propertied to the propertyless must not become more unfavorable than it
-already is, if both are to continue to exist at all.
+The final result was paradoxical. Although the country was already
+overpopulated, the continuing expansion of foreign brickmaking forced the
+farm-holding owners to hire foreign servants, who then settled in this
+already overpopulated land. It hardly needs adding that the population
+cannot continue to increase much further when there are already 5,148
+inhabitants per square mile. Nor can the relation between the propertied
+and the propertyless become still more unfavorable if both groups are to
+continue to exist.
 
-Already now, when two-thirds of the rural population are landless, these
-landless inhabitants are an excessive burden on the propertied, especially
-in cases of misfortune and in years of distress. What, then, if the
-population were to rise in the same progression as has been the case since
-1819, when it amounted to 72,000? There is here no other means of remedying
-overpopulation than emigration, which is already taking place in many
-cases; for there is little or no terrain left here for internal
-colonization. We shall return to this.
+Already, when two-thirds of the rural population are landless, these
+landless inhabitants place an excessive burden on the propertied,
+especially in misfortune and in years of distress. What would happen, then,
+if the population continued to grow at the same rate as it has since 1819,
+when it stood at 72,000? There is no remedy for this overpopulation except
+emigration, which is already taking place in many cases. For internal
+colonization, little or no land remains. We shall return to this point.
 
+**TODO:** Resume here:\
 **c.** A portion of the Einlieger (*resident landless tenants/lodgers*) in Lippe
 remains in the country during the summer and, alongside their own
 small-scale agriculture, occupies itself with day labor on the Kolonate
