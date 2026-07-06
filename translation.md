@@ -419,7 +419,7 @@ does little for the needs of his day laborers. The laborers are then all
 the worse off, since their work obligation requires them to remain
 constantly available and prevents them from seeking earnings elsewhere.
 
-### 3. The Improvement of the Condition of the *Einlieger*
+### 3. The Improvement of the Condition of the Einlieger
 
 Much can be said about whether, and how, the condition of the *Einlieger*
 can be improved. In Lippe, as elsewhere, however, no thorough remedy is
@@ -857,206 +857,189 @@ colonization, as is still possible in other countries.
 
 ## II. In the Principality of Schaumburg-Lippe
 
-In the Principality of Schaumburg-Lippe the Einlieger are in a much more
-favorable situation than in Lippe-Detmold. This follows already from the
-fact that, although it is more fertile, it is on average less densely
-populated. On 9¾ square miles there are, according to the *Zeitschrift für
-deutsche Statistik* cited above, 32,244 inhabitants, so that the square
-mile would on average support 3,307 people. In the year 1840 the population
-amounted to 30,000; the average increase is 1.32 percent. The density of
-population is therefore much lower than in Lippe, which has an entirely
-beneficial effect on prosperity.
+In the Principality of Schaumburg-Lippe, the *Einlieger* are in a much
+better position than in Lippe-Detmold. This is already clear from the fact
+that Schaumburg-Lippe, although more fertile, is on average less densely
+populated. According to the *Zeitschrift für deutsche Statistik* cited
+above, its 9¾ square miles support 32,244 inhabitants, or about 3,307
+people per square mile. In 1840 the population was 30,000, so the average
+rate of increase is 1.32 percent. Population density is therefore much
+lower than in Lippe, and this has a wholly beneficial effect on prosperity.
 
-To be sure, the population has increased proportionally more strongly than
-in Lippe; yet less harmful consequences for the prosperity of the country
-have resulted from this increase, because, first, more sources of income
-flow within the country itself, and, second, the number of inhabitants is
+It is true that the population has increased proportionally more strongly
+than in Lippe. But this increase has had less harmful consequences for the
+country’s prosperity, first because more sources of income are available
+within the country itself, and second because the number of inhabitants is
 by no means disproportionate to the cultivated land.
 
-The Principality of Schaumburg-Lippe belongs to the most blessed landscapes
-of northwestern Germany. It is part of the old county of Schaum- or
-Schauenburg, to which, besides the Hessian part so named, the Hanoverian
-districts of Lauenau, Lachem — now part of the district of Hameln — and, in
-part, Blumenau also belonged. The schaumburg-lippisch or bückeburgisch part
-of the county is not, like the Hessian part, traversed by the Weser; but
-for that reason it is also less mountainous and therefore more evenly
+The Principality of Schaumburg-Lippe belongs to the most favored landscapes
+of northwestern Germany. It forms part of the old county of Schaum- or
+Schauenburg, to which, besides the Hessian part of that name, the
+Hanoverian districts of Lauenau, Lachem — now part of the district of
+Hameln — and, in part, Blumenau also belonged. The Schaumburg-Lippe, or
+Bückeburg, part of the county is not traversed by the Weser, as the Hessian
+part is. For that reason it is also less mountainous and more evenly
 fertile.
 
-A blessed stretch in the Hessian part is the beautiful Weser valley. By
-contrast, in another valley, bounded on one side by the Wesergebirge
-(*Weser Mountains*), the continuation of the Süntel, and on the other by
-the Bückeberg, and through which an insignificant little river, the Aue,
-trickles, the soil is too uneven and stony to yield the return that the
-more level soil in the Bückeburg region generally gives. Mountainous here,
-properly speaking, is only part of the Amt Bückeburg (*administrative
-district of Bückeburg*), which extends in a southwesterly direction beyond
-the Weser mountain range and in which, moreover, the Harrl rises in more
-isolated fashion. On its southeastern side the springs of Eilsen bubble up,
-just as at its northern foot we find the residence city of Bückeburg at the
-boundary between mountain land and plain.
+The beautiful Weser valley is a favored stretch in the Hessian part. By
+contrast, another valley there, bounded on one side by the Wesergebirge —
+the continuation of the Süntel — and on the other by the Bückeberg, is much
+less productive. Through it runs only the insignificant little river Aue,
+and the soil is too uneven and stony to yield the return that the more
+level soil of the Bückeburg region generally gives. Properly speaking, only
+part of the Amt Bückeburg is mountainous: the part extending southwest
+beyond the Weser mountain range, where the Harrl also rises in more
+isolated fashion. On the southeastern side of the Harrl the springs of
+Eilsen bubble up, while at its northern foot lies the residence city of
+Bückeburg, at the boundary between mountain land and plain.
 
 The districts of Stadthagen and Hagenburg are predominantly level. The
-great Bückeberg, distinguished by its beautiful sandstone quarries, from
-which the landscape was once called the Bückigau and from which the
-prince’s residence still bears its name, slopes gradually down toward the
-Schaumburg-Lippe side, whereas toward the Hessian side it falls steeply
-into the valley mentioned above. Of this slope the greater part belongs to
-Schaumburg-Lippe and forms the region where, especially around Sülbeck and
-Liekwegen, the rich coal deposits are found. Of the plain into which this
-slope passes, one part is occupied by the beautiful Schaumburg Forest.
+great Bückeberg, known for its beautiful sandstone quarries, slopes
+gradually down toward Schaumburg-Lippe, whereas on the Hessian side it
+falls steeply into the valley just mentioned. This mountain gave the region
+its old name, Bückigau, and the prince’s residence still takes its name
+from it. The greater part of this slope belongs to Schaumburg-Lippe and
+forms the region where the rich coal deposits are found, especially around
+Sülbeck and Liekwegen. Part of the plain into which the slope descends is
+occupied by the beautiful Schaumburg Forest.
 
-From these preliminary remarks it is already clear that the condition of
-the Einlieger in the Principality of Schaumburg-Lippe must be far more
-favorable than it can be in Lippe-Detmold. The population is entirely
-proportionate to the land; indeed, much cultivated land could still be
-gained if the existing productive forces of the soil were better used.
-There is still a large field here for internal colonization. Since the land
-has great wealth in fuel in its rich coal deposits, there would be no
-objection to transforming into arable land the Schaumburg Forest, which
-occupies part of the plain.
+From these preliminary remarks, it is already clear that the condition of
+the *Einlieger* in Schaumburg-Lippe must be far more favorable than in
+Lippe-Detmold. The population is proportionate to the land. Indeed, much
+more cultivated land could still be gained if the productive forces already
+present in the soil were better used. There is still considerable room here
+for internal colonization. Since the country has abundant fuel in its rich
+coal deposits, there would be no objection to converting into arable land
+the part of the plain now occupied by the Schaumburg Forest.
 
-The water power is used very little. Thus, for example, the little river
-Aue, which rises in the Hessian part, runs quite wild and seems to have
-almost no other purpose than to drive mills, although, with its beautiful
-gradient, it could be used with such obvious advantage for meadow
-cultivation. The same is true of the other small rivers. The number of
-Einlieger, too, is far smaller in relation to the rest of the population
-than in the overpopulated Principality of Lippe; for only about one-third
-of the rural population belongs to the Einlieger class.
+Water power is used very little. The little river Aue, for example, rises
+in the Hessian part and runs almost wild, seemingly serving no purpose
+except to drive mills. Yet with its favorable gradient it could plainly be
+used to great advantage for meadow cultivation. The same is true of the
+other small rivers. The number of *Einlieger* is also far smaller in
+relation to the rest of the population than in the overpopulated
+Principality of Lippe: only about one-third of the rural population belongs
+to the *Einlieger* class.
 
-The relation in which the Einlieger stands to the Kolon (*hereditary
-farmholder*) is one of pure rental; nevertheless, leaving the dwellings
-occurs rarely. Notice to quit occurs perhaps in cases of disputes between
-the two. It lies in the nature of the circumstances that the Einlieger is
-the nearest day laborer of his Kolon, while the latter performs for him all
-necessary hauling services and cultivates his rented land, or, as people
-say in the Bückeburg region, is his Pflugmann (*plowman, the farmer who
-plows or works the tenant’s land*). All these services have their customary
-rates, and accounts are settled over them in the wintertime.
+The relation between the *Einlieger* and the *Kolon* is one of simple
+rental. Even so, the *Einlieger* rarely leaves his dwelling. Notice to quit
+seems to occur mainly in cases of dispute between the two parties. In the
+nature of the arrangement, the *Einlieger* is the nearest day laborer of
+his *Kolon*. In return, the *Kolon* performs the necessary hauling services
+for him and cultivates his rented land; in the Bückeburg region, people say
+that the *Kolon* is his *Pflugmann*. All these services have customary
+rates, and accounts are settled in winter.
 
-There are also small Kolonen in Schaumburg-Lippe — Brinksitzer (*small
-holding-holders on the village edge or common*) — whose condition is
-usually worse than that of the Einlieger. Among the Einlieger there are
-often people who are relatively well provided for and who at the same time
-have only minor burdens to bear, whereas the small Kolonen, as holders, are
-already drawn more heavily into the general and communal burdens.
+There are also small *Kolonen* in Schaumburg-Lippe — *Brinksitzer* — whose
+condition is usually worse than that of the *Einlieger*. Among the
+*Einlieger* there are often people who are relatively well provided for and
+who bear only minor burdens. The small *Kolonen*, by contrast, are already
+drawn more heavily, as holders, into the general and communal burdens.
 
-Spinning and weaving have remained more of a secondary occupation in
-Schaumburg-Lippe. For that reason, the decline of the linen industry has
-had less harmful an effect here than in regions where the landless rural
-population depended on it entirely. Only in the Amt Hagenburg, especially
-around Steinhude, is weaving done for larger-scale sale; elsewhere it is
-done only in small quantities for individual orders. The cultivation of
-flax and its processing have, on the whole, remained very backward.
-Manuring, sowing, treatment in the field, retting, breaking, heckling — in
-short, the entire treatment until the thread reaches the spinning wheel —
-leaves very much to be desired. There has still been little discussion here
-of changing this treatment, although people in other regions have already
-begun to move toward such changes.
+In Schaumburg-Lippe, spinning and weaving have remained more of a secondary
+occupation. For that reason, the decline of the linen industry has had less
+harmful effects here than in regions where the landless rural population
+depended on it entirely. Only in the Amt Hagenburg, especially around
+Steinhude, is weaving carried on for larger-scale sale. Elsewhere it is
+done only in small quantities for individual orders. Flax cultivation and
+processing have, on the whole, remained very backward. Manuring, sowing,
+field treatment, retting, breaking, heckling — in short, the whole process
+up to the point where the thread reaches the spinning wheel — leaves much
+to be desired. There has still been little discussion here of changing
+these methods, although other regions have already begun to move in that
+direction.
 
-Far less than in Lippe-Detmold do the Einlieger in Schaumburg-Lippe occupy
-themselves with work abroad. Hollandsgehen (*seasonal labor migration to
-Holland or abroad*) for mowing and also for herring fishing has greatly
-declined.  The workers go more to larger construction projects outside the
-country, for example to Hamburg after the fire, to Bremerhaven, and so
-forth, and to field brickyards in the Landdrostei Stade (*Hanoverian
-administrative district of Stade*) and in Brandenburg. That there is also
-much opportunity for work for the Einlieger within the country itself, and
-indeed more than in many regions, hardly needs mentioning. Mining alone
-employs a considerable number of people throughout the entire year. Less
-significant than in the Hessian part of the former county, in the stone
-quarries on the Bückeberg, are the works in the stone quarries on the
-Harrl. The extensive forests and road construction also provide various
-employment.
+The *Einlieger* in Schaumburg-Lippe engage in work abroad far less than
+those in Lippe-Detmold. *Hollandsgehen*, whether for mowing or for herring
+fishing, has greatly declined. Workers now go more often to larger
+construction projects outside the country, for example to Hamburg after the
+fire, to Bremerhaven, and the like, and to field brickyards in the
+*Landdrostei Stade* and in Brandenburg. It hardly needs saying that there
+is also much opportunity for work within Schaumburg-Lippe itself, and
+indeed more than in many other regions. Mining alone employs a considerable
+number of people throughout the year. The stone quarries on the Harrl are
+less important than those on the Bückeberg in the Hessian part of the
+former county. The extensive forests and road construction also provide
+various kinds of employment.
 
-One principal labor of the Einlieger is the Dienste (*obligatory labor
-services*). In the Principality of Schaumburg-Lippe, the redemption of
-manorial dues and services has not yet taken place. For the larger Kolonen,
-the Einlieger (*resident lodgers without their own holding*) usually take
-over the Handdienste (*manual labor services*) for payment, or, as people
-say, perform the Diensttage . These larger Kolonen usually stand with the
-Dienstbauern (*peasants owing manorial labor service*) on such a footing
-that, instead of the Kolonen themselves, specific Einlieger are summoned,
-often from other Kolonaten and in other villages.
+One principal kind of work for the *Einlieger* is the *Dienste*, or
+obligatory labor services. In the Principality of Schaumburg-Lippe,
+manorial dues and services have not yet been redeemed. The *Einlieger*
+usually take over the *Handdienste* of the larger *Kolonen* for payment,
+or, as people say, they perform the *Diensttage*. These larger *Kolonen*
+usually stand in such a relation to the *Dienstbauern* that specific
+*Einlieger* are summoned in place of the *Kolonen* themselves, often from
+other *Kolonaten* and other villages.
 
-The Einlieger do not contribute to the communal burdens. The obligation to
-contribute to country-road construction through Landfolgen (*compulsory
-territorial labor obligations*) is redeemed each year by most Kolonen
-(*hereditary landholding holders*) through payment of four
-Contributionssimplen (*basic contribution assessments*). The country roads
-are therefore usually repaired and maintained by day laborers, who earn 8
-Sgr. per day.  This work can likewise be regarded as one of the main
-sources of income of the Einlieger (*resident lodgers without their own
-holding*).
+The *Einlieger* do not contribute to the communal burdens. Most *Kolonen*
+redeem their obligation to contribute to country-road construction through
+*Landfolgen* by paying four *Contributionssimplen* each year. The country
+roads are therefore usually repaired and maintained by day laborers, who
+earn 8 Sgr. per day. This work too may be regarded as one of the main
+sources of income of the *Einlieger*.
 
-It is of very great advantage to the Einlieger (*resident lodgers without
-their own holding*) that in Schaumburg-Lippe the Gemeinheiten (*common
-lands*) have remained undivided up to now. Their livestock is driven onto
-them together with the others’ livestock in return for Hirtenlohn
-(*herdsman’s fee*).
+It is a great advantage for the *Einlieger* that in Schaumburg-Lippe the
+*Gemeinheiten* have remained undivided up to now. Their livestock is driven
+onto the common lands together with the livestock of others, in return for
+*Hirtenlohn*.
 
 Whereas in other regions there are frequent complaints about luxury in
-clothing even among the lower estates, especially that glittering finery is
-spreading very widely, Schaumburg-Lippe, like the neighboring region
-generally, deserves praise because the old “deftige” Tracht (*sturdy
-traditional dress*), as people say in Westphalia, has been preserved here.
-This has had the most beneficial consequences for the landless population.
-As in few regions, this peasant Tracht (*traditional dress*) has resisted
+clothing even among the lower estates, especially the spread of showy
+finery, Schaumburg-Lippe, like the neighboring region generally, deserves
+praise for preserving the old “deftige” *Tracht*, as people say in
+Westphalia. This has had highly beneficial consequences for the landless
+population. As in few other regions, this peasant *Tracht* has resisted
 every fashion and every change, even the slightest, in cut and fabric. In
 its complete form — which even the poorest servant boy and the poorest maid
-strive to have — it is by no means cheap, but rather very expensive. Yet
-for that reason it is also extraordinarily durable, and every garment that
-takes dirt is washable.
+strive to possess — it is by no means cheap, but quite expensive. Yet for
+that very reason it is extraordinarily durable, and every garment that
+becomes dirty is washable.
 
 If solidity is to be found anywhere, it is in this clothing. It is the same
-for summer and winter; only when it is cold are all the layers worn
-together, while one or another is left off according to whether it is more
-or less warm. When all the layers are worn together, the clothing is warm;
-and yet it is thoroughly suited for work, light, cooling, and comfortable
-when the layers have been removed. On high summer days, for example when
-haymaking, the young man wears a shirt and his three-quarter trousers, and
-perhaps puts on only a sleeved waistcoat when going to and from the work.
-When wood is hauled in winter, two shirts, two pairs of trousers, two or
-three sleeved waistcoats — no other kind is known — and a white linen lined
-smock are worn, and the trimming of the fur cap is turned down over the
-neck.
+for summer and winter. In cold weather all the layers are worn together; in
+warmer weather one or another is left off. When all the layers are worn,
+the clothing is warm. Once some layers are removed, it remains thoroughly
+suited to work: light, cooling, and comfortable. On hot summer days, for
+example during haymaking, a young man wears a shirt and his three-quarter
+trousers, perhaps putting on only a sleeved waistcoat when going to and
+from the work. When wood is hauled in winter, he wears two shirts, two
+pairs of trousers, two or three sleeved waistcoats — no other kind is known
+— and a white linen-lined smock; the trimming of the fur cap is turned down
+over the neck.
 
-In a similar way, the various layers are added or left off by the women
-according to the season. Among them there is a special custom: the bright
-red skirts worn for ordinary churchgoing are exchanged for black or brown
-ones at the celebration of the Lord’s Supper. A blue woolen coat with broad
-skirts and large covered buttons is the man’s clothing for churchgoing and
-for funerals. Usually the coat is acquired at marriage and then lasts for
-the whole of life. Lack of Kirchzeug (*churchgoing clothes*) is
-regarded as poverty.
+Women add or remove layers in a similar way according to the season. Among
+them there is a special custom: the bright red skirts worn for ordinary
+churchgoing are exchanged for black or brown ones at the celebration of the
+Lord’s Supper. A blue woolen coat with broad skirts and large covered
+buttons is the man’s clothing for churchgoing and funerals. Usually the
+coat is acquired at marriage and then lasts for life. Lack of *Kirchzeug*
+is regarded as poverty.
 
-We hardly need add that the excellent, solid Tracht (*traditional
-dress*) of the peasant estate has a beneficial effect on its inner
-character and preserves the Einlieger (*resident lodgers without their
-own holding*) from many evils with which the Heuerleute (*rural
-laborers in rented dwellings*) in a large part of our Principality of
-Osnabrück have to struggle. For here, especially in the north, the old
-national costume has already almost entirely disappeared, and with it
-native clothing materials have also been displaced. This has brought
-unspeakable disadvantages to the manual-laboring class, which has now
-become dependent on changing fashion.
+It hardly needs adding that the excellent, solid *Tracht* of the peasant
+estate has a beneficial effect on its inner character. It also preserves
+the *Einlieger* from many evils with which the *Heuerleute* in much of our
+Principality of Osnabrück must struggle. There, especially in the north,
+the old national costume has almost entirely disappeared, and native
+clothing materials have disappeared with it. This has brought unspeakable
+disadvantages to the manual-laboring class, which has now become dependent
+on changing fashion.
 
-We can therefore only wish that in Schaumburg-Lippe, as everywhere that a
-national costume is still found among the peasant estate, it may preserve
-itself through all times and help to preserve this estate in its
-characteristically distinct nature, protecting it from a general leveling
-in which estate custom and honor disappear.
+We can therefore only wish that in Schaumburg-Lippe, as everywhere a
+national costume is still found among the peasant estate, it may be
+preserved through all times. In doing so, it will help preserve this estate
+in its distinct character and protect it from a general leveling in which
+estate custom and estate honor disappear.
 
 ## Citation
 
-(citation)= 
+(citation)=
 
 Georg Funke, "Ueber die Verhältnisse der Einlieger in Lippe-Detmold und Schaumburg-Lippe" (On
 the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe),
 Zeitschrift des Vereins für Deutsche Statistik 2 (Berlin: Schneider, 1848), 1104–1122;
 digital images, Münchener DigitalisierungsZentrum / Digitale Bibliothek, Bayerische Staatsbibliothek,
-Munich, <https://www.digitale-sammlungen.de/view/bsb10709532?page=1142%2C1143> : accessed 28 June 2026;
-catalog record, <https://mdz-nbn-resolving.de/details:bsb10709532>; BSB call no. BHS VI 32-2.
+Munich, https://www.digitale-sammlungen.de/view/bsb10709532?page=1142%2C1143 : accessed 28 June 2026;
+catalog record, https://mdz-nbn-resolving.de/details:bsb10709532; BSB call no. BHS VI 32-2.
 
 [^1]: In the preface to my work, *On the Present Condition of the Heuerleute
     in the Principality of Osnabrück, with Special Reference to the Causes of
@@ -1077,28 +1060,27 @@ catalog record, <https://mdz-nbn-resolving.de/details:bsb10709532>; BSB call no.
     Principality of Lippe, where Hermann once defeated Varus, and where now, on
     the summit of the Teutoburg Forest range, the unfortunately still
     unfinished monument to the German hero rises. On one such occasion he also
-    once met an Einlieger who told him that he had formerly gone to Friesland
-    as a peat digger. He put the earnings at about 20 Taler; sometimes he had
-    had to deduct the travel costs from that, and sometimes he had also had
+    met an *Einlieger*, who told him that he had formerly gone to Friesland as
+    a peat digger. He put the earnings at about 20 Taler; sometimes he had had
+    to deduct the travel costs from that amount, and sometimes he had earned
     more.
-    
-    This worker may serve as an example of how little money is used to make the
-    journey from Lippe to Friesland. He reported that on the outward journey,
-    when he took some provisions from home with him, he used his whole Taler;
-    on the return journey, when these provisions were lacking, he had not
-    always managed with that amount. Meanwhile, mostly only bread was eaten
-    along the way. Only once, namely in Haselünne, where they always took their
-    lodging with a butcher, was a warm supper eaten. The meal had been so good
-    that it need not have been better for a wedding: they had received soup
-    with beef and then sauerkraut with bacon or ham. Including the night’s
-    lodging on hay and the coffee consumed the next morning, a total of 7 Mgr.
-    had been paid for it, which was indeed not too much; yet the journey would
-    have become too expensive for them if they had wanted to make such an
-    outlay for every night’s lodging. — One sees what privations these workers
-    endured on the road.
 
-[^3]: The indirect taxes have meanwhile affected the Einlieger as well through
-    the accession to the Zollverein (*German Customs Union*).
+    This worker may serve as an example of how little money was used for the
+    journey from Lippe to Friesland. He reported that on the outward journey,
+    when he took some provisions from home with him, he used his whole Taler.
+    On the return journey, when these provisions were lacking, he had not
+    always managed with that amount. For the most part, only bread was eaten
+    along the way. Only once, namely in Haselünne, where they always lodged
+    with a butcher, was a warm supper eaten. The meal had been so good that it
+    need not have been better for a wedding: they received soup with beef and
+    then sauerkraut with bacon or ham. Including the night’s lodging on hay and
+    the coffee consumed the next morning, they paid 7 Mgr. in all, which was
+    certainly not too much. Yet the journey would have become too expensive for
+    them if they had spent so much on every night’s lodging. — One sees what
+    privations these workers endured on the road.
+
+[^3]: The indirect taxes have meanwhile affected the *Einlieger* as well
+    through the accession to the Zollverein (*German Customs Union*).
 
 [^4]: Compare Antze, on the constitution of the Principality of Lippe, in
     Bülau’s *Jahrbücher für Geschichte und Politik*, 1844, issue VII.
