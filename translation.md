@@ -375,55 +375,52 @@ when it stood at 72,000? There is no remedy for this overpopulation except
 emigration, which is already taking place in many cases. For internal
 colonization, little or no land remains. We shall return to this point.
 
-**TODO:** Resume here:\
-**c.** A portion of the Einlieger (*resident landless tenants/lodgers*) in Lippe
-remains in the country during the summer and, alongside their own
-small-scale agriculture, occupies itself with day labor on the Kolonate
-(*hereditary farm holdings*). Although the earnings of these Einlieger are
-smaller, they are nevertheless generally best off. To be sure, they cannot
-work their way up to great prosperity, but they are more secure against
-impoverishment than the wandering population, which is on the whole less
-thrifty and whose earnings depend too much on external circumstances.
+**c.** Some of the *Einlieger* in Lippe remain in the country during the
+summer. Alongside their own small-scale agriculture, they work as day
+laborers on the *Kolonate* — the hereditary farm holdings. Although these
+*Einlieger* earn less than those who migrate for work, they are generally
+better off. They cannot, to be sure, rise to real prosperity, but they are
+more secure against impoverishment than the wandering population, which is
+on the whole less thrifty and whose earnings depend too heavily on external
+circumstances.
 
 The present rental arrangements have existed for many years and, if both
-parties act honestly, are still appropriate. Such an Einlieger, who works
-for his Meier (*in Lippe, the general term for a peasant farm owner*) as a
-day laborer, usually pays four to six Taler rent for the dwelling and three
-Taler for the necessary garden land. In addition, he receives 1½ to 2
-Scheffel (*bushels*) of flax sown, for which 1½ to 2 Taler are paid per
-Scheffel, depending on the various districts. He also obtains his other
-needs — wood, boards, piglets, and so forth — from the Meier. Usually he
-also has from the same man several Scheffelsaat (*a local area measure
-based on the amount of seed sown*) of arable land, though this is not fixed
-by contract.
+parties act honestly, are still workable. An *Einlieger* who works as a day
+laborer for his *Meier* — in Lippe, the usual term for a peasant farmholder
+— generally pays four to six Taler in rent for his dwelling and three Taler
+for the necessary garden land. In addition, he receives 1½ to 2 *Scheffel*
+of flax sown for him, for which he pays 1½ to 2 Taler per *Scheffel*,
+depending on the district. He also obtains other necessities from the
+*Meier*, such as wood, boards, piglets, and the like. Usually he also
+receives from the same man several *Scheffelsaat* of arable land, though
+this is not fixed by contract.
 
-The Einlieger is obliged, as often as the Meier requires it, to work for
-him; for this he receives, in addition to board, 2½ Sgr. day wage. On some
-noble estates and larger farms, the so-called large day wage has recently
-been introduced — 5 to 8 Sgr. daily for the worker — though, it seems, not
-precisely to the worker’s advantage. Indeterminate services by the
-Einlieger do not occur. Yet farm owners not infrequently make improper use
-of the dependence of their day laborers. It would be especially desirable
-for them to provide the Einlieger with better dwellings; for these are
-sometimes of such a condition that it would be much more in keeping with
-fairness if the people who endure them for a year were paid four Taler
-compensation, rather than having to pay that amount themselves.
+The *Einlieger* is obliged to work for the *Meier* whenever required. In
+return, he receives board and a day wage of 2½ Sgr. On some noble estates
+and larger farms, the so-called large day wage has recently been introduced
+— 5 to 8 Sgr. per day for the worker — though this does not appear to be
+clearly to the worker’s advantage. The *Einlieger* are not subject to
+undefined labor services. Yet farmholders not infrequently make improper
+use of their day laborers’ dependence. It would be especially desirable for
+them to provide the *Einlieger* with better dwellings. Some of these
+dwellings are so poor that fairness would seem to require paying people
+four Taler to endure them for a year, rather than charging them that amount
+in rent.
 
-The extent to which these Einlieger who remain in the country are
-sufficiently employed depends on the insight and competence of the farm
-owners with whom they live. An active and prudent farmer will employ his
-Einlieger a great deal in order to increase the productive forces already
-present in the soil or to awaken new ones, something that is not possible
-without labor. If, however, insight into the nature of agriculture is
-lacking, and agriculture is carried on only mechanically, without any
-question of its further development, then, even if outright idleness does
-not always prevail, there usually prevails a thriftiness that is badly
-misplaced here. In that case a farm owner will try to spend as little as
-possible on day wages and will in general do little for the needs of the
-day laborers. They are then all the worse off, since, because of the labor
-obligation they have undertaken, they must always be ready and are
-therefore prevented from pursuing earnings elsewhere.
+Whether these *Einlieger* who remain in the country are sufficiently
+employed depends on the insight and competence of the farmholders with whom
+they live. An active and prudent farmer will employ his *Einlieger*
+extensively, in order to increase the productive forces already present in
+the soil or to awaken new ones — something that cannot be done without
+labor. But where insight into agriculture is lacking, and farming is
+carried on mechanically, without any thought of improvement, a misplaced
+thrift usually prevails, even if there is not outright idleness. In that
+case, the farmholder tries to spend as little as possible on day wages and
+does little for the needs of his day laborers. The laborers are then all
+the worse off, since their work obligation requires them to remain
+constantly available and prevents them from seeking earnings elsewhere.
 
+**TODO: RESUME HERE**:wq
 ### 3. The Improvement of the Condition of the Einlieger
 
 Whether and how the condition of the Einlieger can be improved is something
