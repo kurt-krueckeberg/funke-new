@@ -115,7 +115,7 @@ six *Einlieger*. By 1846, when he drew up the *Einlieger* list, their
 number had risen to 110. The number of landowners, by contrast, was small.
 Of thirty-nine landowners, only ten were larger *Kolonen* (holders of rural
 holdings) who kept four or more horses.  Another ten cultivated between 20
-and 60 *Lippe Scheffelsaat*—approximately 8½ to 25½ acres—partly using cows
+and 60 *Lippe Scheffelsaat* — approximately 8½ to 25½ acres — partly using cows
 as draft animals.  The rest were small proprietors, the *Hoppenplöcker*,
 who possessed no land beyond the shares of common land that had fallen to
 them, or even only their small gardens. There was also a noble estate in
