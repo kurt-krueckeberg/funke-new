@@ -37,13 +37,13 @@ century, however, they existed in the principality only in very small
 numbers, and in some districts probably not at all.
 
 Until that time, younger sons of farm owners who could neither marry into
-another farm nor find some other settled position usually did one of two
-things: they either settled on an uncultivated site within a village, or
-they built a house on the village common land, also known as heathland. In
-this way many small landholders came into being. As the common lands were
-gradually brought under cultivation, small settlements even developed,
-usually named after the village or estate from which the settlement had
-begun, such as Hölserheide, Herserheide, Wülferheide, and the like.
+another farm nor secure some other permanent livelihood generally had two
+options. They could settle on an uncultivated plot within the village, or
+build a house on the village commons—usually poor, uncultivated land. In
+this way, many small holdings were established. As the commons were
+gradually brought under cultivation, small settlements also developed.
+These were usually named after the village or estate from which they had
+grown, as in Hölserheide, Herserheide, and Wülferheide.
 
 In Lippe, people generally tended to live together in villages rather than
 in dispersed rural farm communities, as was more common in Westphalia
