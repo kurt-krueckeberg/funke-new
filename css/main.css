@@ -1,0 +1,11 @@
+body {
+ font-family: "Amazon Ember", sans-serif;
+}
+
+main {
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 0 20px;
+ }
+
+

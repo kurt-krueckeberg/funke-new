@@ -10,21 +10,19 @@ In 1834 the population was 98,428 (97,720), and by 1840 it had risen to
 104,462, so that one may assume an average annual increase of the
 population of 0.7 percent. On average, there are 5,148 inhabitants per
 square mile, a population density found in few German states. Only
-the Kingdom of Saxony, with 6,760 inhabitants per square mile; the Grand
+the Kingdom of Saxony with 6,760 inhabitants per square mile; the Grand
 Duchy of Hesse, with 5,578; the Duchy of Saxe-Altenburg, with 5,367; and
 the Principality of Reuss-Greiz, with 5,170, are more densely populated.
 
-If we now consider that the Principality of Lippe is by no means fertile
-and cultivated throughout, but, being mountainous, often resists
-cultivation; that it also has large forests and some stretches of heath;
-and that it contains only small towns, we must already conclude from this
-that circumstances of a very peculiar kind must exist there, by which the
-land is enabled to support so dense a population, especially since trade,
-like factories, is not of great importance. These very peculiar
-circumstances will confront us when we examine the condition of the
-so-called Einlieger (*resident landless tenants/lodgers*), who were
-mentioned only recently in this journal, p. 639, as not having the right to
-vote in municipal affairs.
+The Principality of Lippe is not fertile or cultivated throughout. Much of
+it is mountainous and difficult to farm; it also contains extensive forests
+and stretches of poor, uncultivated land, and its towns are small. We must
+therefore conclude that unusual circumstances enable the principality to
+support such a dense population, especially since neither trade nor
+manufacturing is particularly important. These circumstances become
+apparent when we examine the condition of the so-called Einlieger
+(*resident landless tenants or lodgers*), who were mentioned recently in
+this journal, on page 639, as having no right to vote in municipal affairs.
 
 ### 1. Origin of the Einlieger
 
